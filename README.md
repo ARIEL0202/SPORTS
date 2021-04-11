@@ -6,6 +6,9 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/626909
 #EXTINF:-1 tvg-id="" tvg-name="BEIN ESPANIOL HD" tvg-logo="" group-title="",BEIN ESPANIOL HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487 
 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENG HD" tvg-logo="" group-title="",BEIN SPORTS 1 ENG HD
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8?rb
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENG HD" tvg-logo="" group-title="",BEIN SPORTS ENG HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
 
@@ -17,6 +20,12 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-id="" tvg-name="TDN DEPORTES" tvg-logo="" group-title="",TDN DEPORTES
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Setanta sport 1
+https://95-213-172-222.livesports24.online/rusetantaeurasia.m3u8?rb 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Rusia tv sport
+https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8?rb
 
 #EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES HD" tvg-logo="" group-title="",FOX DEPORTES HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
@@ -48,6 +57,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/9a7ec5dc9bd5a35
 
 #EXTINF:-1,ESPN LAM
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6710
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="",ESPN 2 ARG
+https://centurylink.br.cdn.booyah.live/hls/1000044/54314386.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (ENG)" tvg-logo="" group-title="",ESPN 2 HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
@@ -253,3 +265,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:-1 tvg-id="" tvg-name="PBS HD (ENG)" tvg-logo="" group-title="",PBS HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/773
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="" group-title="",ESPN 2 ARG
+https://akamai2-br.cdn.booyah.live/hls/1000044/54314386.m3u8?thejoelc
