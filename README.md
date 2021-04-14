@@ -1,10 +1,41 @@
-#EXTM3U
-
 #EXTINF:-1,TYC ARG
 http://ipflix.click:8080/Ester/s9mdb4ez9y/626909
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENG HD" tvg-logo="" group-title="",BEIN SPORTS 1 ENG HD
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8?rb
+
+#EXTINF:-1,ESPN 2 LAM
+http://ipflix.click:8080/Ester/s9mdb4ez9y/6709
+#EXTINF:-1,Fox Sports 1 HD ARG
+http://ipflix.click:8080/Ester/s9mdb4ez9y/626925
+#EXTINF:-1,Fox Sport 2 LAM
+http://ipflix.click:8080/Ester/s9mdb4ez9y/67132
+#EXTINF:-1,Fox Sports 2 HD 
+http://ipflix.click:8080/Ester/s9mdb4ez9y/15658
+#EXTINF:-1,beIN Sports Espana ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/13540
+#EXTINF:-1,Movistar La Liga 2 [Match Time] ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/683145
+#EXTINF:-1,Movistar Liga De Campeones HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/620685
+#EXTINF:-1,Movistar Liga De Campeones 1 [Match Time] HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/683153
+#EXTINF:-1,Movistar Deportes HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7240
+#EXTINF:-1,Movistar F1 ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/71971
+#EXTINF:-1,Gol TV ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/13457
+#EXTINF:-1,Teledeporte ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7178
+#EXTINF:-1,Tele Madrid ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/679745
+#EXTINF:-1,Eurosport 1 HD ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/8746
+#EXTINF:-1,Eurosport 2 ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/13531
+#EXTINF:-1,Win Sports CO
+http://ipflix.click:8080/Ester/s9mdb4ez9y/629053
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Setanta sport 1
 https://95-213-172-222.livesports24.online/rusetantaeurasia.m3u8?rb 
@@ -38,12 +69,6 @@ https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD4
 https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7826_428_1_C00000_0_0_0.png" ,EUROSPORT 1HD
-http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_760E_408_1_C00000_0_0_0.png",EUROSPORT 2HD
-https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5H991R.png",UFC 1
 http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
@@ -137,3 +162,9 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTSBAYAREA" tvg-logo="" group-title="",SPORTSBAYAREA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/644
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7826_428_1_C00000_0_0_0.png" ,EUROSPORT 1HD
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_760E_408_1_C00000_0_0_0.png",EUROSPORT 2HD
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
