@@ -1,9 +1,6 @@
 #EXTINF:-1,TYC ARG
 http://ipflix.click:8080/Ester/s9mdb4ez9y/626909
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENG HD" tvg-logo="" group-title="",BEIN SPORTS 1 ENG HD
-http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8?rb
-
 #EXTINF:-1,ESPN 2 LAM
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6709
 #EXTINF:-1,Fox Sports 1 HD ARG
@@ -32,6 +29,10 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/13457
 http://ipflix.click:8080/Ester/s9mdb4ez9y/7178
 #EXTINF:-1,Tele Madrid ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/679745
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENG HD" tvg-logo="" group-title="",BEIN SPORTS 1 ENG HD
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8?rb
+
 #EXTINF:-1,Eurosport 1 HD ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/8746
 #EXTINF:-1,Eurosport 2 ES
