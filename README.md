@@ -18,6 +18,8 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/13540
 http://ipflix.click:8080/Ester/s9mdb4ez9y/683145
 #EXTINF:-1,Movistar Liga De Campeones HD ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/620685
+#EXTINF:-1,Blaze ES
+http://ipflix.click:8080/Ester/s9mdb4ez9y/7184
 #EXTINF:-1,Movistar Liga De Campeones 1 [Match Time] HD ES
 http://ipflix.click:8080/Ester/s9mdb4ez9y/683153
 #EXTINF:-1,Movistar Deportes HD ES
