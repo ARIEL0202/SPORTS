@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-id="141059" tvg-name="TNT SPORTS" tvg-logo="TNTSportsAR" group-title="00 - Deportes", TNT SPORTS
 http://138.117.71.80:25461/test/test/170?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="141035" tvg-name="TNT SPORTS 3" tvg-logo="TNT SPORTS 3" group-title="00 - Argentina", TNT SPORTS 3
+http://138.117.71.80:25461/test/test/167?PlaylistM3UCL
+
 #EXTINF:-1,bein Sports Espagnol HD VIP US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/677144
 
