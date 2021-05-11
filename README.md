@@ -16,6 +16,24 @@ http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8?PlaylistM3UCL
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="139036" tvg-name="TYC SPORTS PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="00 - Deportes", TYC SPORTS PLAY
 https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="138169" tvg-name="FOX SPORTS 1 NORTE " tvg-logo="https://pbs.twimg.com/profile_images/996779176421019648/o1pPkhwJ_400x400.jpg" group-title="00 - Deportes", FOX SPORTS 1 NORTE 
+http://balancer1.ottmex.com:8081/tecno/FoxSports1.BKR/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="138170" tvg-name="FOX SPORTS 2 NORTE " tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="00 - Deportes", FOX SPORTS 2 NORTE 
+http://balancer1.ottmex.com:8081/tecno/FoxSports2.BKR/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="138171" tvg-name="FOX SPORTS 3 NORTE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png/revision/latest/scale-to-width-down/340?cb=20160412195331" group-title="00 - Deportes", FOX SPORTS 3 NORTE
+http://balancer1.ottmex.com:8081/tecno/FoxSports3.BKR/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="138173" tvg-name="ESPN 1 NORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6EPj-SYViEIRp1q7Zns2RNsd3Nm0l81vBA&usqp=CAU" group-title="00 - Deportes", ESPN 1 NORTE
+http://balancer1.ottmex.com:8081/tecno/Espn1.BKR/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="138174" tvg-name="ESPN 2 NORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26QU1pi5nhbw9hndTtO7GOZJfwoMPtlED0Q&usqp=CAU" group-title="00 - Deportes", ESPN 2 NORTE
+http://balancer1.ottmex.com:8081/tecno/Espn2.BKR/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="138168" tvg-name="ESPN 3 NORTE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="00 - Deportes", ESPN 3 NORTE 
+http://balancer1.ottmex.com:8081/tecno/Espn3.BKR/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="138216" tvg-name="CLARO SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png" group-title="00 - Deportes", CLARO SPORTS
+https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="139004" tvg-name="EURO SPORTS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="00 - Deportes", EURO SPORTS
+http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="138172" tvg-name="EURO SPORTS 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="00 - Deportes", EURO SPORTS 1 
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,bein Sports Espagnol HD VIP US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/677144
