@@ -1,16 +1,7 @@
-#EXTINF:-1 tvg-id="141059" tvg-name="ESPN" tvg-logo="TNTSportsAR" group-title="00 - Deportes", ESPN LAM
-https://st.chatango.com/pcache/sounds/message_received.mp3?1
-#EXTINF:-1 tvg-id="141059" tvg-name="ESPN" tvg-logo="TNTSportsAR" group-title="00 - Deportes", ESPN LAT
-https://cdn14.esp-cdn.xyz/e/mastere.html?.m3u8?1620779258
-
 #EXTINF:-1 tvg-id="141059" tvg-name="TNT SPORTS" tvg-logo="TNTSportsAR" group-title="00 - Deportes", TNT SPORTS
 http://138.117.71.80:25461/test/test/170?PlaylistM3UCL
 #EXTINF:-1 tvg-id="141035" tvg-name="TNT SPORTS 3" tvg-logo="TNT SPORTS 3" group-title="00 - Argentina", TNT SPORTS 3
 http://138.117.71.80:25461/test/test/167?PlaylistM3UCL
-#EXTINF:-1 tvg-id="140322" tvg-name="31-espn u" tvg-logo="" group-title="BRASIL", 31-espn u
-https://gma2.blab.email/espnu.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="139400" tvg-name="Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/100px-Win_Sports%2B_logo.svg.png"" group-title="00 - Argentina", Win Sports+
-http://saypopular.com:25461/oscar/20gar/52853?PlaylistM3UCL
 #EXTINF:-1 tvg-id="139857" tvg-name="DEPORTV" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="00 - Deportes", DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="139037" tvg-name=" TYC SPORTS PLAY 2" tvg-logo="" group-title="00 - Deportes",  TYC SPORTS PLAY 2
