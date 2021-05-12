@@ -1,3 +1,8 @@
+#EXTINF:-1 tvg-id="141059" tvg-name="ESPN" tvg-logo="TNTSportsAR" group-title="00 - Deportes", ESPN LAM
+https://st.chatango.com/pcache/sounds/message_received.mp3?1
+#EXTINF:-1 tvg-id="141059" tvg-name="ESPN" tvg-logo="TNTSportsAR" group-title="00 - Deportes", ESPN LAT
+https://cdn14.esp-cdn.xyz/e/mastere.html?.m3u8?1620779258
+
 #EXTINF:-1 tvg-id="141059" tvg-name="TNT SPORTS" tvg-logo="TNTSportsAR" group-title="00 - Deportes", TNT SPORTS
 http://138.117.71.80:25461/test/test/170?PlaylistM3UCL
 #EXTINF:-1 tvg-id="141035" tvg-name="TNT SPORTS 3" tvg-logo="TNT SPORTS 3" group-title="00 - Argentina", TNT SPORTS 3
