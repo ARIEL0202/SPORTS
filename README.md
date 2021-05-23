@@ -43,7 +43,6 @@ http://balancer1.ottmex.com:8081/tecno/Espn2.BKR/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="138168" tvg-name="ESPN 3 NORTE " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="00 - Deportes", ESPN 3 NORTE 
 http://balancer1.ottmex.com:8081/tecno/Espn3.BKR/chunks.m3u8?PlaylistM3UCL
 
-
 #EXTINF:-1,bein Sports Espagnol HD VIP US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/677144
 
@@ -56,8 +55,14 @@ http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8?rb
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Setanta sport 1
 https://95-213-172-222.livesports24.online/rusetantaeurasia.m3u8?rb 
 
+#EXTINF:-1, Setanta Sports + www.achoAPPS.com
+http://ott-cdn.ucom.am/s82/04.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Rusia tv sport
 https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8?rb
+
+#EXTINF:-1, Ovacion | SD www.achoAPPS.com
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/9c/Sportitalia_2.png",Sport Italia 24 LIVE (solo wiseplay)
 https://www.mytivu.it/Application/Channels/SILive24.php
