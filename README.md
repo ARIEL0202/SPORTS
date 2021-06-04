@@ -1,17 +1,9 @@
-#EXTINF:-1 tvg-id="141059" tvg-name="TNT SPORTS" tvg-logo="TNTSportsAR" group-title="00 - Deportes", TNT SPORTS
-http://138.117.71.80:25461/test/test/170?PlaylistM3UCL
-#EXTINF:-1 tvg-id="141035" tvg-name="TNT SPORTS 3" tvg-logo="TNT SPORTS 3" group-title="00 - Argentina", TNT SPORTS 3
-http://138.117.71.80:25461/test/test/167?PlaylistM3UCL
+#EXTINF:-1,Halow Sport HD
+http://halowtv.online:8080/HalowTV/FSyzHfEhvb/137
 #EXTINF:-1 tvg-id="139857" tvg-name="DEPORTV" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="00 - Deportes", DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="139037" tvg-name=" TYC SPORTS PLAY 2" tvg-logo="" group-title="00 - Deportes",  TYC SPORTS PLAY 2
-https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="139629" tvg-name="TUDN MÉXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1200px-TUDN_Logo.svg.png" group-title="00 - Deportes", TUDN MÉXICO
 http://balancer1.ottmex.com:8081/tecno/tdn.BKR/chunks.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="139038" tvg-name="TYC SPORTS PLAY 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAUq" group-title="00 - Deportes", TYC SPORTS PLAY 3
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="139036" tvg-name="TYC SPORTS PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="00 - Deportes", TYC SPORTS PLAY
-https://d3awnlgqz0szay.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index_9.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="138169" tvg-name="FOX SPORTS 1 NORTE " tvg-logo="https://pbs.twimg.com/profile_images/996779176421019648/o1pPkhwJ_400x400.jpg" group-title="00 - Deportes", FOX SPORTS 1 NORTE 
 http://balancer1.ottmex.com:8081/tecno/FoxSports1.BKR/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="138170" tvg-name="FOX SPORTS 2 NORTE " tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="00 - Deportes", FOX SPORTS 2 NORTE 
