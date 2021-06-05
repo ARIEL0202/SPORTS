@@ -718,4 +718,6 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/677155
 #EXTINF:-1,TVG2 Network HD VIP US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/678071
 
+#EXTINF:-33 tvg-logo="https://libre.futbol/img/logo-canal/DeporTV.png" group-title="DEPORTES Y COMPETENCIAS", DEPORTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
 
