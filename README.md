@@ -1,8 +1,5 @@
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7tmZnMy.png" group-title="Canales de Deportes", Viasat Sport | SD
-http://persik.by/stream/2944/263250/10249.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/307px-Setanta_Sports.svg.png",Setanta Sports +
-http://195.158.29.129/live_360/live.stream+_360p.m3u8
+#EXTINF:-1,TUDN HD VIP US
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/684705
 
 #EXTINF:-1 tvg-id="SPORTTV 1" tvg-logo="https://www.futbolenvivo.com.co/wp-content/uploads/2020/06/Sport-TV-en-vivo-696x391.jpg",SPORT TV1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
@@ -20,11 +17,11 @@ http://halowtv.online:8080/HalowTV/FSyzHfEhvb/137
 #EXTINF:-1,bein Sports Espagnol HD VIP US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/677144
 
-#EXTINF:-1,TUDN HD VIP US
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/684705
-
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENG HD" tvg-logo="" group-title="",BEIN SPORTS 1 ENG HD
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8?rb
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/307px-Setanta_Sports.svg.png",Setanta Sports +
+http://195.158.29.129/live_360/live.stream+_360p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Setanta sport 1
 https://95-213-172-222.livesports24.online/rusetantaeurasia.m3u8?rb 
@@ -638,3 +635,6 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683145
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683142
 #EXTINF:-1,Movistar Liga De Campeones 1 [Match Time] HD ES
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683153
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7tmZnMy.png" group-title="Canales de Deportes", Viasat Sport | SD
+http://persik.by/stream/2944/263250/10249.m3u8
