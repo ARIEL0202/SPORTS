@@ -30,7 +30,7 @@ https://95-213-172-222.livesports24.online/rusetantaeurasia.m3u8?rb
 http://ott-cdn.ucom.am/s82/04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Rusia tv sport
-https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8?rb
+https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8?rb   
 
 #EXTINF:-1, Ovacion | SD 
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
