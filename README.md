@@ -1,5 +1,38 @@
-#EXTINF:-1,TUDN HD VIP US
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/684705
+#EXTINF:-1,TUDN
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13540
+#EXTINF:-1,ESPN Deportes HD US
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/677142
+
+#EXTINF:-33 tvg-logo="https://libre.futbol/img/logo-canal/DeporTV.png" group-title="DEPORTES Y COMPETENCIAS", DEPORTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
+#EXTINF:-1,DAZN 1 FHD VIP ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683544
+#EXTINF:-1,Movistar La Liga FHD ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/16274
+#EXTINF:-1,Movistar Vamos HD ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682872
+#EXTINF:-1,Movistar Liga De Campeones HD ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/620685
+#EXTINF:-1,Movistar Deportes HD ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7240
+#EXTINF:-1,Movistar Deportes 2 FHD ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/16277
+#EXTINF:-1,Movistar Deportes 2 HD ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7239
+#EXTINF:-1,Movistar F1 ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/71971
+#EXTINF:-1,Gol TV ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13457
+#EXTINF:-1,Teledeporte ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7178
+#EXTINF:-1,Barca TV ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7250
+#EXTINF:-1,Eurosport 1 HD ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8746
+#EXTINF:-1,Eurosport 2 ES
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13531
+#EXTINF:-1,Eleven Sports 1 FHD PT
+http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13774
 
 #EXTINF:-1 tvg-id="SPORTTV 1" tvg-logo="https://www.futbolenvivo.com.co/wp-content/uploads/2020/06/Sport-TV-en-vivo-696x391.jpg",SPORT TV1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
@@ -7,15 +40,9 @@ http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SPORTTV 3" tvg-logo="https://www.futbolenvivo.com.co/wp-content/uploads/2020/06/Sport-TV-en-vivo-696x391.jpg",SPORT TV3
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SPORTTV 4" tvg-logo="https://www.futbolenvivo.com.co/wp-content/uploads/2020/06/Sport-TV-en-vivo-696x391.jpg",SPORT TV4
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
 
 #EXTINF:-1,Halow Sport HD
 http://halowtv.online:8080/HalowTV/FSyzHfEhvb/137
-#EXTINF:-1 tvg-id="139857" tvg-name="DEPORTV" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" group-title="00 - Deportes", DEPORTV
-
-#EXTINF:-1,bein Sports Espagnol HD VIP US
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/677144
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ENG HD" tvg-logo="" group-title="",BEIN SPORTS 1 ENG HD
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8?rb
@@ -32,11 +59,14 @@ http://ott-cdn.ucom.am/s82/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Rusia tv sport
 https://95-213-224-180.livesports24.online/ntvmatchfoot1.m3u8?rb   
 
-#EXTINF:-1, Ovacion | SD 
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="foxsportshd" tvg-logo="https://images.useetv.com/logo_foxsports1_big.png",FOX SPORT HD
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="foxsportshd" tvg-logo="https://images.useetv.com/logo_foxsports1_big.png",FOX SPORT 2
+https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORT2/hls/index.m3u8?
+
+#EXTINF:-1 tvg-id="foxsportshd" tvg-logo="https://images.useetv.com/logo_foxsports1_big.png",FOX SPORT 2
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=48365387&_cdn_timestamp=1626372554&_cdn_token=8e08ce7b32d9445adac20e4cfad33347484e6f4a
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
@@ -110,45 +140,6 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7826_428_1_C00000_0_0_0.png" ,EUROSPORT 1HD
 http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_760E_408_1_C00000_0_0_0.png",EUROSPORT 2HD
-https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
-
-#EXTINF:-1,------- Sports -------
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/679811
-#EXTINF:-1,TUDN
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13540
-#EXTINF:-1,DAZN 1 FHD VIP ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683544
-#EXTINF:-1,DAZN 2 HD VIP ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683545
-#EXTINF:-1,Movistar La Liga FHD ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/16274
-#EXTINF:-1,Movistar Vamos HD ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682872
-#EXTINF:-1,Movistar Liga De Campeones HD ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/620685
-#EXTINF:-1,Movistar Deportes HD ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7240
-#EXTINF:-1,Movistar Deportes 2 FHD ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/16277
-#EXTINF:-1,Movistar Deportes 2 HD ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7239
-#EXTINF:-1,Movistar F1 ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/71971
-#EXTINF:-1,Gol TV ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13457
-#EXTINF:-1,Teledeporte ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7178
-#EXTINF:-1,Real Madrid Channel ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7182
-#EXTINF:-1,Barca TV ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7250
-#EXTINF:-1,Eurosport 1 HD ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/8746
-#EXTINF:-1,Eurosport 2 ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13531
-
-
 #EXTINF:-1,########## English Premier League ##########
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/684882
 #EXTINF:-1,SuperSport Premier League HD VIP AF
@@ -171,8 +162,6 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683863
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683867
 #EXTINF:-1,Bein Sports 11 FHD VIP US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682912
-#EXTINF:-1,Bein Sports 12 HD VIP US
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682913
 #EXTINF:-1,BT Sport Extra 1 [Match Time] UK
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683835
 #EXTINF:-1,BT Sport Extra 2 [Match Time] UK
@@ -203,8 +192,6 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682919
 
 #EXTINF:-1,-------  beIN Sports AR -------
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682924
-#EXTINF:-1,beIN Sports Global FHD AR
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/688155
 #EXTINF:-1,beIN Sports Premium 1 HQ AR
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/688156
 #EXTINF:-1,beIN Sports Premium 2 HQ AR
@@ -231,17 +218,9 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/5474
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/5473
 #EXTINF:-1,beIN Sports 11 FHD AR
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683410
-#EXTINF:-1,beIN Sports 12 FHD VIP AR
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/54715
 
-#EXTINF:-1,------- beIN Sports US -------
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682938
 #EXTINF:-1,beIN Sports HD US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682942
-#EXTINF:-1,beIN Sports La Liga HD VIP US
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/687794
-#EXTINF:-1,beIN Sports Espanol HD VIP US
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/678747
 
 #EXTINF:-1,------- beIN Sports TR -------
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682925
@@ -268,8 +247,6 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682944
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682945
 #EXTINF:-1,beIN Sports Max 4 HD FR
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/5470
-#EXTINF:-1,beIN Sports Max 5 FR
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/53604
 #EXTINF:-1,beIN Sports Max 6 FR
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/625242
 #EXTINF:-1,beIN Sports Max 7 FR
@@ -312,10 +289,6 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682971
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683570
 #EXTINF:-1,Sky Sports Main Event FHD UK
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682993
-#EXTINF:-1,Barca TV HD VIP US
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/687793
-#EXTINF:-1,Sky Sports Mix FHD UK
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683003
 #EXTINF:-1,Premier Sports 1 HD UK
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682991
 #EXTINF:-1,Eir Sports 1 HD UK
@@ -349,8 +322,6 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682974
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682975
 #EXTINF:-1,Dubai Sports 2 HD AR
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682976
-#EXTINF:-1,Sharjah Sport HD AR
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682977
 #EXTINF:-1,Yas Sport HD AR
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682972
 #EXTINF:-1,DMC Sports AR
@@ -380,8 +351,6 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/5441
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/5440
 #EXTINF:-1,Kombat Sport HD PT
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682981
-#EXTINF:-1,Real Madrid TV ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/5402
 #EXTINF:-1,Digi Sport 1 FHD RO
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/5454
 #EXTINF:-1,Digi Sport 2 HD RO
@@ -423,38 +392,20 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/5392
 #EXTINF:-1,SuperSport FHD AL
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682920
 
-#EXTINF:-1,########## VIP ##########
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13850
-#EXTINF:-1,Telefoot Stadium 1 FHD  FR VIP
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/680241
-#EXTINF:-1,Telefoot Stadium 2 FHD  FR VIP
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/680242
-#EXTINF:-1,Telefoot Stadium 3 FHD  FR VIP
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/680243
-#EXTINF:-1,Telefoot Stadium 4 FHD  FR VIP
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/680244
-#EXTINF:-1,Telefoot Stadium 6 FHD  FR VIP
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/680246
-#EXTINF:-1,Telefoot Stadium 7 HD  FR VIP
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/680247
-#EXTINF:-1,Telefoot Stadium 8 FHD  FR VIP
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/680248
 #EXTINF:-1,DAZN 1 [B] HD DE
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/661088
 #EXTINF:-1,DAZN 2 FHD DE
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/661089
 #EXTINF:-1,Planet Sports 1 FHD HR VIP
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/623691
-#EXTINF:-1,Planet Sports 2 FHD VIP HR
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/623690
+
 #EXTINF:-1,Planet Sports 3 FHD HR VIP
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/623689
 #EXTINF:-1,Planet Sports 4 HD HR VIP
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/663526
 #EXTINF:-1,Planet Sports 5 HD HR VIP
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/663527
-#EXTINF:-1,Eleven Sports 1 FHD PT
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13774
+
 #EXTINF:-1,Eleven Sports 2 FHD PT
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13773
 #EXTINF:-1,Eleven Sports 3 FHD PT
@@ -498,8 +449,6 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683771
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683753
 #EXTINF:-1,Sky Sports Action HD VIP UK
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/674010
-#EXTINF:-1,Sky Sports Arena FHD VIP UK
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/682023
 #EXTINF:-1,Sky Sports Arena HD UK
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7926
 #EXTINF:-1,Sky Sports News VIP UK
@@ -551,8 +500,6 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683774
 
 #EXTINF:-1,------- USA Sports -------
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/677100
-#EXTINF:-1,NFL Network HD VIP US
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/685902
 #EXTINF:-1,NBA TV HD US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/6355
 #EXTINF:-1,NHL Network HD US
@@ -575,22 +522,18 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/4935
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683881
 #EXTINF:-1,ESPN HD US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/14363
-#EXTINF:-1,ESPN 2 FHD VIP US
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683882
 #EXTINF:-1,ESPN 2 HD US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/677173
 #EXTINF:-1,ESPN 3 VIP US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/6708
 #EXTINF:-1,ESPN U US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/33498
-#EXTINF:-1,ESPN Deportes HD US
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/677142
+
 #EXTINF:-1,TSN 1 HD US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/6353
 #EXTINF:-1,TSN 2 HD US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/6352
-#EXTINF:-1,TSN 3 HD VIP US
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/6351
+
 #EXTINF:-1,TSN 4 HD VIP US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/679808
 #EXTINF:-1,TSN 5 HD VIP US
@@ -601,40 +544,21 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/623146
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/677150
 #EXTINF:-1,Pac-12 Network HD VIP US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/684756
-#EXTINF:-1,Big Ten Network HD US
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/6361
+
 #EXTINF:-1,CBS Sports Network HD US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/14385
 #EXTINF:-1,beiN Sports HD US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/4902
 #EXTINF:-1,Bein Sports 11 HD VIP US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/677819
-#EXTINF:-1,The Fight Network HD VIP US
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13748
 #EXTINF:-1,WWE Network [B] HD US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/6347
 #EXTINF:-1,MAV TV HD US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/677152
-#EXTINF:-1,Tennis Channel HD VIP US
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/684767
 #EXTINF:-1,Tennis Channel HD US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7084
 #EXTINF:-1,Next Level Sports HD US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/677155
-#EXTINF:-1,TVG2 Network HD VIP US
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/678071
-
-#EXTINF:-33 tvg-logo="https://libre.futbol/img/logo-canal/DeporTV.png" group-title="DEPORTES Y COMPETENCIAS", DEPORTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
-
-#EXTINF:-1,Movistar La Liga 1 [Match Time] ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683144
-#EXTINF:-1,Movistar La Liga 2 [Match Time] ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683145
-#EXTINF:-1,Movistar La Liga 3 [Match Time] ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683142
-#EXTINF:-1,Movistar Liga De Campeones 1 [Match Time] HD ES
-http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/683153
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7tmZnMy.png" group-title="Canales de Deportes", Viasat Sport | SD
 http://persik.by/stream/2944/263250/10249.m3u8
