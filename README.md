@@ -1,3 +1,60 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b5H991R.png",UFC 2 
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b5H991R.png",UFC 3   
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:-1 tvg-id="MLS" tvg-logo="https://i.imgur.com/6t7x61s.png",MLS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png",Abu Dabi Sports 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png",Abu Dabi Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing 2 
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pggeczF.jpg",Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png",Hipódromo de las Américas
+http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SK1.AU" tvg-logo="https://static.epg.best/au/SKYRacing.au.png",Sky 1 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+
+#EXTINF:-1 tvg-id="SK2.AU" tvg-logo="https://static.epg.best/au/SKYRacing.au.png",Sky 2 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rAkIuW1.png" group-title="USA",Cycle World
+http://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHx0k2c.png" group-title="ITALY",TeleMonteneve Livigno 
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://stage.speltjanst.se/assets/img/atg_logo.png" group-title="DEPORTES",ATG Tv
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/motortrendIT/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="MotorTrend Italia",MotorTrend Italia IT
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+
+#EXTINF:-1 tvg-country="UN" tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png",Al Kass Sports,Al Kass Спортs 1 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7tmZnMy.png" group-title="Canales de Deportes", Viasat Sport | SD
+http://persik.by/stream/2944/263250/10249.m3u8
+
+
+
+
 #EXTINF:-1,TUDN
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/13540
 #EXTINF:-1,ESPN Deportes HD US
@@ -68,9 +125,6 @@ https://qlobbidev.s.llnwi.net/bpk-tv/FOXSPORT2/hls/index.m3u8?
 #EXTINF:-1 tvg-id="foxsportshd" tvg-logo="https://images.useetv.com/logo_foxsports1_big.png",FOX SPORT 2
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=48365387&_cdn_timestamp=1626372554&_cdn_token=8e08ce7b32d9445adac20e4cfad33347484e6f4a
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 
@@ -83,59 +137,11 @@ https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD4
 https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b5H991R.png",UFC 2 
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b5H991R.png",UFC 3   
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-
-#EXTINF:-1 tvg-id="MLS" tvg-logo="https://i.imgur.com/6t7x61s.png",MLS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Sports 1
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png",Abu Dabi Sports 2
-http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png",Abu Dabi Sports 3
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing 2 
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pggeczF.jpg",Free Sports TV
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-edge.png",EDGE SPORT HD
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png",Hipódromo de las Américas
-http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="SK1.AU" tvg-logo="https://static.epg.best/au/SKYRacing.au.png",Sky 1 Racing
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-
-#EXTINF:-1 tvg-id="SK2.AU" tvg-logo="https://static.epg.best/au/SKYRacing.au.png",Sky 2 Racing
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rAkIuW1.png" group-title="USA",Cycle World
-http://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gHx0k2c.png" group-title="ITALY",TeleMonteneve Livigno 
-http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KEpTzpJ.png" group-title="ITALY",TeleMonteneve 3 Livigno
 http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://stage.speltjanst.se/assets/img/atg_logo.png" group-title="DEPORTES",ATG Tv
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/motortrendIT/picture?width=200&height=200" group-title="Deportivos Int." tvg-name="MotorTrend Italia",MotorTrend Italia IT
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-
-#EXTINF:-1 tvg-country="UN" tvg-logo="http://www.alandulus.com/wp-content/uploads/2018/03/Al_Kass_Sport_Channel_4a16d_450x450.png",Al Kass Sports,Al Kass Спортs 1 HD
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7826_428_1_C00000_0_0_0.png" ,EUROSPORT 1HD
 http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
@@ -559,9 +565,6 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/677152
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/7084
 #EXTINF:-1,Next Level Sports HD US
 http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/677155
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7tmZnMy.png" group-title="Canales de Deportes", Viasat Sport | SD
-http://persik.by/stream/2944/263250/10249.m3u8
 
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="DEPORTES 2",  USA | BEIN SPORTS XTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
