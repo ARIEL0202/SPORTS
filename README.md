@@ -52,6 +52,13 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/7tmZnMy.png" group-title="Canales de Deportes", Viasat Sport | SD
 http://persik.by/stream/2944/263250/10249.m3u8
 
+#EXTINF:-1 tvg-logo="https://stage.speltjanst.se/assets/img/atg_logo.png" group-title="DEPORTES",ATG Tv
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="AUSTRALIA",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+
+
 
 
 
