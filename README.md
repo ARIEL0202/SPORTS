@@ -1,3 +1,14 @@
+#EXTINF:-1,TNT Series DE http://cdng.pubcdn.tn/iptv/ch1518?code=1701341723961808 
+#EXTINF:-1,NAT Geo WILD HD http://cdng.pubcdn.tn/iptv/ch409?code=1701341723961808 
+#EXTINF:-1,Discovery HD http://cdng.pubcdn.tn/iptv/ch410?code=1701341723961808 
+#EXTINF:-1,Nat. Geo DE http://cdng.pubcdn.tn/iptv/ch408?code=1701341723961808 
+#EXTINF:-1,Syfy DE http://cdng.pubcdn.tn/iptv/ch414?code=1701341723961808 
+#EXTINF:-1,Universal DE http://cdng.pubcdn.tn/iptv/ch1511?code=1701341723961808 
+#EXTINF:-1,History DE http://cdng.pubcdn.tn/iptv/ch1504?code=1701341723961808 
+#EXTINF:-1,Disney Cinemagic DE http://cdng.pubcdn.tn/iptv/ch1501?code=1701341723961808 
+#EXTINF:-1,Disney Channel DE http://cdng.pubcdn.tn/iptv/ch1500?code=1701341723961808 
+#EXTINF:-1,Disney Junior DE http://cdng.pubcdn.tn/iptv/ch404?code=1701341723961808 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5H991R.png",UFC 2 
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
