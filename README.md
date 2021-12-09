@@ -57,7 +57,7 @@ https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/
 https://ok.ru/videoembed/3291307777740
 #EXTINF:0,Boing
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
-#EXTINF:0,Cartoonito
+#EXTINF:0,Cartoonito    
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
 #EXTINF:0,Paramount
 http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
