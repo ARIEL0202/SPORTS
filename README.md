@@ -618,3 +618,15 @@ http://yeahiptv.vip:8080/v209gunvd/on0k5orqk/677155
 
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bein-sports.png" group-title="DEPORTES 2",  USA | BEIN SPORTS XTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE", LOOK SPORTS +
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1617596840&wowzatokenhash=q5uWnJeNO2P6lsob-adxKgsuucRYKL5XypoAiIWOAvM=&wowzatokenstarttime=1617553640
+
+#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE", LOOK SPORTS 
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1617596874&wowzatokenhash=EjMJ30iw-KK1LUMe25wPHYjSf_vZr40HrZmgBSMaf_U=&wowzatokenstarttime=1617553674
+
+#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE", LOOK SPORTS 2
+https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1616918728&wowzatokenhash=VSA7jv0u-Omn3CnlShcjJEklf8e2rR8jAQ8wwDG1_GY=&wowzatokenstarttime=1616879128
+
+#EXTINF:-1 tvg-logo="https://wp13-images-ro-dynamic.horizon.tv/RO/Logos/focused/38_10091_c_39fd1ac08924cf523fdf78d73c73501b.png" group-title="DEPORTE", LOOK SPORTS 3
+https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1616918666&wowzatokenhash=sH1EDcTqSUok6EuiGcTMOpiFtl-7ujyDZXnBqpqqohE=&wowzatokenstarttime=1616879066
