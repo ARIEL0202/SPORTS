@@ -56,7 +56,14 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 http://51.222.111.105:25461/PpvEvento/PpvEvento/6
 #EXTINF:-1 ,BT SPORT 
 http://45.148.26.176/hls/M1.m3u8
-
+#EXTINF:-1 PREMIER SPORT 2
+http://45.134.21.199/hls/S2.m3u8
+EXTINF:-1 ,TELECINCOHD
+http://91.126.141.13:1935/live/61/playlist.m3u8
+#EXTINF:-1 ,CUATRO HD
+http://91.126.141.13:1935/live/51/playlist.m3u8
+#EXTINF:-1 ,LA LIGA 
+http://cdn2.cyclingnews.live/hls/P2.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="DEPORTE", EVENTOS TyC SPORT PLAY 1
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
