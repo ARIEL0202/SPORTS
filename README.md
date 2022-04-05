@@ -81,6 +81,25 @@ http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/8918
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="DEPORTES - UFC Fight PASS (M)(720)" tvg-logo="https://1.bp.blogspot.com/-T4uG5FYIDek/XhA6fXlKRQI/AAAAAAAAA8U/xRyQIitNaVsNGYmrK2TVTPJKiCITuGGoACLcBGAsYHQ/s200/32.png" group-title="CANALES-DEPORTES",DEPORTES - UFC Fight PASS (M)(720)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/5699
 
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="PPV 1 (e)(1080)" tvg-logo="https://lh3.googleusercontent.com/-vuvpoyK00Ww/YcDE3nnqiuI/AAAAAAAACas/NBgJnGxhgYMeqOb9tbjar8By1mEq1L4ngCNcBGAsYHQ/w200-h200/1640023261001505-0.png" group-title="EVENTOS PPV",PPV 1 (e)(1080)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/1823
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="PPV 2 (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-vuvpoyK00Ww/YcDE3nnqiuI/AAAAAAAACas/NBgJnGxhgYMeqOb9tbjar8By1mEq1L4ngCNcBGAsYHQ/w200-h200/1640023261001505-0.png" group-title="EVENTOS PPV",PPV 2 (e)(720)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/1824
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="PPV 3 (e)(1080)" tvg-logo="https://lh3.googleusercontent.com/-vuvpoyK00Ww/YcDE3nnqiuI/AAAAAAAACas/NBgJnGxhgYMeqOb9tbjar8By1mEq1L4ngCNcBGAsYHQ/w200-h200/1640023261001505-0.png" group-title="EVENTOS PPV",PPV 3 (e)(1080)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/140903
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="PPV 4 (e)(720)" tvg-logo="https://lh3.googleusercontent.com/-vuvpoyK00Ww/YcDE3nnqiuI/AAAAAAAACas/NBgJnGxhgYMeqOb9tbjar8By1mEq1L4ngCNcBGAsYHQ/w200-h200/1640023261001505-0.png" group-title="EVENTOS PPV",PPV 4 (e)(720)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/988
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 DAZN 1 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png" group-title="DEPORTES MUNDIAL",PPV 1 DAZN 1 (TV)(720)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/66917
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 DAZN 2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png" group-title="DEPORTES MUNDIAL",PPV 1 DAZN 2 (TV)(720)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/66919
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 DAZN 4 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png" group-title="DEPORTES MUNDIAL",PPV 1 DAZN 4 (TV)(720)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/115984
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 DAZN Formula 1 (TV)(720)" tvg-logo="" group-title="DEPORTES MUNDIAL",PPV 1 DAZN Formula 1 (TV)(720)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/115985
+#EXTINF:-1 tvg-id="" tvg-name="PPV 2 DAZN 1 (M)(720)" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png" group-title="DEPORTES MUNDIAL",PPV 2 DAZN 1 (M)(720)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/66920
+
 
 #EXTINF:-1 group-title="SPORT", TyC Sports Play 1
 https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
