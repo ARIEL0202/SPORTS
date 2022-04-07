@@ -1,21 +1,9 @@
 #EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="DEPORTES - TyC Sports INT (M)(720)" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png" group-title="CANALES-DEPORTES",DEPORTES - TyC Sports INT (M)(720)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/2076
-#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="DEPORTES - TyC Sports INT(M)(720)" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png" group-title="CANALES-DEPORTES",DEPORTES - TyC Sports INT(M)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/27530
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="DEPORTES - TUDN (MEX) (M)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - TUDN (MEX) (M)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/1549
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="DEPORTES - Directv Sports 1 (e)(720)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 (e)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/956
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="DEPORTES - Directv Sports 1 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 (e)(SD)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/957
-#EXTINF:-1 tvg-id="DirectvSports.co" tvg-name="DEPORTES - Directv Sports 1 COL (M)(720)" tvg-logo="http://tvgp.xyz:8080/live/fabriciolatin28298/Py84JdEPS6/132133.ts" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 COL (M)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/140576
-#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="DEPORTES - Directv Sports 2 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-f5u2OnKyA8A/XazFPWIst9I/AAAAAAAAAlU/H15BTBiKOu4UhFg3Js1-NMLwNcx_HCC9QCLcBGAsYHQ/s200/20.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 (e)(SD)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/961
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="DEPORTES - Directv Sports + (e)(720)" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports + (e)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/963
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="DEPORTES - Espn 1 ARG (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (TV)(1080)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/117739
+#EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="DEPORTES - Fox Sports Premium ARG (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Y_N3VABdVF4/Xay_YYbfoSI/AAAAAAAAAj8/D-gsleVUxQc3V27-hHor1lopCPZeORCDgCLcBGAsYHQ/s200/15.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports Premium ARG (M)(1080)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/1528
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="DEPORTES - Espn 1 ARG (X)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 ARG (X)(720)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/69718
 #EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="DEPORTES - Espn 1 MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 MEX (M)(1080)
@@ -40,14 +28,6 @@ http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/977
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/1544
 #EXTINF:-1 tvg-id="ESPNPlus.ar" tvg-name="DEPORTES - Espn Extra ARG (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png" group-title="CANALES-DEPORTES",DEPORTES - Espn Extra ARG (e)(SD)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/69719
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="DEPORTES - beIN Sport U (M)(720)" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sport U (M)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/2876
-#EXTINF:-1 tvg-id="beINSports.us" tvg-name="DEPORTES - beIN Sports Ñ (M)(720)" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sports Ñ (M)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/2872
-#EXTINF:-1 tvg-id="beINSportsSpanish.ca" tvg-name="DEPORTES - beIN Sports Xtra Ñ (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-ZKORTNZ8Szo/Ydx2UQH0MaI/AAAAAAAACfI/KuHHd0WsnfInxBXCju3l_xrCzRyVBQASwCNcBGAsYHQ/w200-h200/1641838155930717-1.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sports Xtra Ñ (TV)(720)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/144405
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="DEPORTES - Fight BOX  (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-trZC8_-fPrc/X2kBptXt-QI/AAAAAAAABZY/ebjwHb5BxW4LLF_iJltMKJ-mVQHv4gqbgCLcBGAsYHQ/w200-h200/Fight%2Bbox.png" group-title="CANALES-DEPORTES",DEPORTES - Fight BOX  (TV)(1080)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/60375
 #EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="DEPORTES - Fox Sports 1 ARG (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 ARG (TV)(1080)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/141445
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="DEPORTES - Fox Sports 1 ARG (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 ARG (M)(720)
@@ -66,8 +46,29 @@ http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/1518
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/1527
 #EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="DEPORTES - Fox Deportes (TV)(720)" tvg-logo="" group-title="CANALES-DEPORTES",DEPORTES - Fox Deportes (TV)(720)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/69983
-#EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="DEPORTES - Fox Sports Premium ARG (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Y_N3VABdVF4/Xay_YYbfoSI/AAAAAAAAAj8/D-gsleVUxQc3V27-hHor1lopCPZeORCDgCLcBGAsYHQ/s200/15.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports Premium ARG (M)(1080)
-http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/1528
+
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="DEPORTES - Directv Sports 1 (e)(720)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 (e)(720)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/956
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="DEPORTES - Directv Sports 1 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 (e)(SD)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/957
+#EXTINF:-1 tvg-id="DirectvSports.co" tvg-name="DEPORTES - Directv Sports 1 COL (M)(720)" tvg-logo="http://tvgp.xyz:8080/live/fabriciolatin28298/Py84JdEPS6/132133.ts" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 1 COL (M)(720)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/140576
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="DEPORTES - Directv Sports 2 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-f5u2OnKyA8A/XazFPWIst9I/AAAAAAAAAlU/H15BTBiKOu4UhFg3Js1-NMLwNcx_HCC9QCLcBGAsYHQ/s200/20.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports 2 (e)(SD)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/961
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="DEPORTES - Directv Sports + (e)(720)" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="CANALES-DEPORTES",DEPORTES - Directv Sports + (e)(720)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/963
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="DEPORTES - TUDN (MEX) (M)" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - TUDN (MEX) (M)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/1549
+
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="DEPORTES - beIN Sport U (M)(720)" tvg-logo="https://1.bp.blogspot.com/-bwERD1EYUso/XjHTaAko5tI/AAAAAAAAA-M/MpTKAtCF0rUt9cvpn-Chpk3PKth9aEWJwCLcBGAsYHQ/s200/33.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sport U (M)(720)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/2876
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="DEPORTES - beIN Sports Ñ (M)(720)" tvg-logo="https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sports Ñ (M)(720)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/2872
+#EXTINF:-1 tvg-id="beINSportsSpanish.ca" tvg-name="DEPORTES - beIN Sports Xtra Ñ (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-ZKORTNZ8Szo/Ydx2UQH0MaI/AAAAAAAACfI/KuHHd0WsnfInxBXCju3l_xrCzRyVBQASwCNcBGAsYHQ/w200-h200/1641838155930717-1.png" group-title="CANALES-DEPORTES",DEPORTES - beIN Sports Xtra Ñ (TV)(720)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/144405
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="DEPORTES - Fight BOX  (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-trZC8_-fPrc/X2kBptXt-QI/AAAAAAAABZY/ebjwHb5BxW4LLF_iJltMKJ-mVQHv4gqbgCLcBGAsYHQ/w200-h200/Fight%2Bbox.png" group-title="CANALES-DEPORTES",DEPORTES - Fight BOX  (TV)(1080)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/60375
+
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="DEPORTES - NBA U (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ri_Nr0yAHbc/XhA3NrtQMlI/AAAAAAAAA7g/POn3E9DM87w21_EvZWEi5D-YQCNLepdiACLcBGAsYHQ/s200/29.png" group-title="CANALES-DEPORTES",DEPORTES - NBA U (M)(720)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/2873
 #EXTINF:-1 tvg-id="SkySports24.mx" tvg-name="DEPORTES - Sky Sports 21 (M)(720)" tvg-logo="https://1.bp.blogspot.com/-RLh5FLdJhrY/X2j2zkoZV1I/AAAAAAAABZA/CSpzrOeYoAcKxcdbPgNAFsSXhaeirAD3wCLcBGAsYHQ/w200-h200/SKY.png" group-title="CANALES-DEPORTES",DEPORTES - Sky Sports 21 (M)(720)
@@ -100,6 +101,8 @@ http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/115985
 #EXTINF:-1 tvg-id="" tvg-name="PPV 2 DAZN 1 (M)(720)" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png" group-title="DEPORTES MUNDIAL",PPV 2 DAZN 1 (M)(720)
 http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/66920
 
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="DEPORTES - TyC Sports INT(M)(720)" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png" group-title="CANALES-DEPORTES",DEPORTES - TyC Sports INT(M)(720)
+http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/27530
 
 #EXTINF:-1 group-title="SPORT", TyC Sports Play 1
 https://d3awnlgqz0szay.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_13.m3u8
