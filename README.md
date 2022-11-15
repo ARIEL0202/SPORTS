@@ -103,6 +103,185 @@ http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216938
 #EXTINF:-1 tvg-ID="" tvg-name="|AR| BEIN SPORTS MAX 6 4K" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_6.png" group-title="WORLDCUP QATAR 2022",|AR| BEIN SPORTS MAX 6 4K
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216939
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-ID="" tvg-name="=====  BEINSPORT  HD =====" tvg-logo="" group-title="AR BEIN SPORTS HD",=====  BEINSPORT  HD =====
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/5208
+#EXTINF:-1 tvg-ID="beinsportsnewsar.qa" tvg-name="BEIN SPORTS NEWS" tvg-logo="http://vodkom.com:25461/Logo/BEIN/news.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS NEWS
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/5221
+#EXTINF:-1 tvg-ID="beinsports1premiumar.qa" tvg-name="BEIN SPORTS 1 PREMIUM" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-1-hd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 1 PREMIUM
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/60954
+#EXTINF:-1 tvg-ID="beinsports2premiumar.qa" tvg-name="BEIN SPORTS 2 PREMIUM" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-2-hd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 2 PREMIUM
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/60955
+#EXTINF:-1 tvg-ID="beinsports3premiumar.qa" tvg-name="BEIN SPORTS 3 PREMIUM" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-3-hd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 3 PREMIUM
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/60956
+#EXTINF:-1 tvg-ID="beinsports1ar.qa" tvg-name="BEIN SPORTS 1" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-hd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 1
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/5231
+#EXTINF:-1 tvg-ID="beinsports2ar.qa" tvg-name="BEIN SPORTS 2" tvg-logo="http://vodkom.com:25461/Logo/BEIN/2-hd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 2
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/5229
+#EXTINF:-1 tvg-ID="beinsports3en.qa" tvg-name="BEIN SPORTS 3" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-hd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 3
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/5233
+#EXTINF:-1 tvg-ID="beinsports4ar.qa" tvg-name="BEIN SPORTS 4" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-hd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 4
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/5235
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="BEIN SPORTS 5" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-hd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 5
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/5237
+#EXTINF:-1 tvg-ID="beinsports6ar.qa" tvg-name="BEIN SPORTS 6" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-hd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 6
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/5239
+#EXTINF:-1 tvg-ID="beinsports7ar.qa" tvg-name="BEIN SPORTS 7" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-hd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 7
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/5240
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="BEIN SPORTS 1 ENGLISH" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-1-HD.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 1 ENGLISH
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/5241
+#EXTINF:-1 tvg-ID="beinsportsxtra1ar.qa" tvg-name="BEIN SPORTS XTRA 1 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra1-HD.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS XTRA 1 HD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/135165
+#EXTINF:-1 tvg-ID="beinsportsxtra2ar.qa" tvg-name="BEIN SPORTS XTRA 2 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra2-HD.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS XTRA 2 HD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/135166
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS AFC HD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/176998
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC 1 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS AFC 1 HD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/176999
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC 2 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS AFC 2 HD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/177000
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC 3 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS AFC 3 HD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/177001
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_1.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS MAX 1 HD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216786
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_2.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS MAX 2 HD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216787
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_3.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS MAX 3 HD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216788
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 4 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_4.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS MAX 4 HD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216789
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 5 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_5.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS MAX 5 HD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216790
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 6 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_6.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS MAX 6 HD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216791
+#EXTINF:-1 tvg-ID="" tvg-name="===== BEINSPORT FHD =====	" tvg-logo="" group-title="AR BEIN SPORTS HD",===== BEINSPORT FHD =====	
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/12397
+#EXTINF:-1 tvg-ID="beinsportsglobalar.qa" tvg-name="BEIN SPORTS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS HD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/6727
+#EXTINF:-1 tvg-ID="beinsportsnews.qa" tvg-name="BEIN SPORTS NEWS HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/news.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS NEWS HD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/7630
+#EXTINF:-1 tvg-ID="" tvg-name="STARZ PLAY SPORT 1 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/starzplaysports.png" group-title="AR BEIN SPORTS HD",STARZ PLAY SPORT 1 HD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/195425
+#EXTINF:-1 tvg-ID="" tvg-name="STARZ PLAY SPORT 2 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/starzplaysports.png" group-title="AR BEIN SPORTS HD",STARZ PLAY SPORT 2 HD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/195426
+#EXTINF:-1 tvg-ID="" tvg-name="STARZ PLAY SPORT 3 HD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/starzplaysports.png" group-title="AR BEIN SPORTS HD",STARZ PLAY SPORT 3 HD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/195427
+#EXTINF:-1 tvg-ID="beinsports1premium.qa" tvg-name="BEIN SPORTS 1 PREMIUM FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-1-fhd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 1 PREMIUM FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/60958
+#EXTINF:-1 tvg-ID="beinsports2premiumar.qa" tvg-name="BEIN SPORTS 2 PREMIUM FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-2-fhd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 2 PREMIUM FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/28751
+#EXTINF:-1 tvg-ID="beinsports3premiumar.qa" tvg-name="BEIN SPORTS 3 PREMIUM FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-3-fhd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 3 PREMIUM FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/60959
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-fhd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 1 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/36301
+#EXTINF:-1 tvg-ID="beinsports2ar.qa" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/2-fhd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 2 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/36302
+#EXTINF:-1 tvg-ID="beinsports3ar.qa" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-fhd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 3 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/36300
+#EXTINF:-1 tvg-ID="beinsports4ar.qa" tvg-name="BEIN SPORTS 4 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-fhd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 4 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/36299
+#EXTINF:-1 tvg-ID="beinsports5ar.qa" tvg-name="BEIN SPORTS 5 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-fhd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 5 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/36298
+#EXTINF:-1 tvg-ID="beinsports6ar.qa" tvg-name="BEIN SPORTS 6 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-fhd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 6 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/36297
+#EXTINF:-1 tvg-ID="beinsports7ar.qa" tvg-name="BEIN SPORTS 7 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-fhd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 7 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/36296
+#EXTINF:-1 tvg-ID="beinsports1enar.qa" tvg-name="BEIN SPORTS 1 ENGLISH FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-1-fhd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 1 ENGLISH FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/36295
+#EXTINF:-1 tvg-ID="beinsports2enar.qa" tvg-name="BEIN SPORTS 2 ENGLISH FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-2-fhd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 2 ENGLISH FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/36294
+#EXTINF:-1 tvg-ID="beinsports3enar.qa" tvg-name="BEIN SPORTS 3 ENGLISH FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-3-fhd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 3 ENGLISH FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/36293
+#EXTINF:-1 tvg-ID="beinsports1frar.qa" tvg-name="BEIN SPORTS 1 FRENCH FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/Fr-1-FHD.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 1 FRENCH FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/63499
+#EXTINF:-1 tvg-ID="beinsports2frar.qa" tvg-name="BEIN SPORTS 2 FRENCH FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/Fr-2-FHD.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 2 FRENCH FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/63500
+#EXTINF:-1 tvg-ID="beinsports3frar.qa" tvg-name="BEIN SPORTS 3 FRENCH FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/Fr-3-FHD.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 3 FRENCH FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/63501
+#EXTINF:-1 tvg-ID="beinsportsxtra1ar.qa" tvg-name="BEIN SPORTS XTRA 1 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra1-FHD.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS XTRA 1 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/135167
+#EXTINF:-1 tvg-ID="beinsportsxtra2ar.qa" tvg-name="BEIN SPORTS XTRA 2 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra2-FHD.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS XTRA 2 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/135168
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS AFC FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/176994
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC 1 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS AFC 1 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/176995
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC 2 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS AFC 2 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/176996
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC 3 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS AFC 3 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/176997
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_1.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS MAX 1 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216780
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_2.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS MAX 2 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216781
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_3.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS MAX 3 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216782
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 4 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_4.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS MAX 4 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216783
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 5 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_5.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS MAX 5 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216784
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 6 FHD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_6.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS MAX 6 FHD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216785
+#EXTINF:-1 tvg-ID="" tvg-name="===== BEINSPORT SD =====	" tvg-logo="" group-title="AR BEIN SPORTS HD",===== BEINSPORT SD =====	
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/118456
+#EXTINF:-1 tvg-ID="beinsports1premiumar.qa" tvg-name="BEIN SPORTS PREMIUM 1 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-1-sd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS PREMIUM 1 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/60960
+#EXTINF:-1 tvg-ID="beinsports2premiumar.qa" tvg-name="BEIN SPORTS PREMIUM 2 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-2-sd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS PREMIUM 2 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/60961
+#EXTINF:-1 tvg-ID="beinsports3premiumar.qa" tvg-name="BEIN SPORTS PREMIUM 3 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/pre-3-sd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS PREMIUM 3 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/60962
+#EXTINF:-1 tvg-ID="beinsports1ar.qa" tvg-name="BEIN SPORTS 1 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/1-sd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 1 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/60967
+#EXTINF:-1 tvg-ID="beinsports2ar.qa" tvg-name="BEIN SPORTS 2 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/2-sd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 2 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/60970
+#EXTINF:-1 tvg-ID="beinsports3ar.qa" tvg-name="BEIN SPORTS 3 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/3-sd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 3 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/60969
+#EXTINF:-1 tvg-ID="beinsports4ar.qa" tvg-name="BEIN SPORTS 4 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/4-sd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 4 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/60963
+#EXTINF:-1 tvg-ID="beinsports5ar.qa" tvg-name="BEIN SPORTS 5 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/5-sd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 5 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/60964
+#EXTINF:-1 tvg-ID="beinsports6ar.qa" tvg-name="BEIN SPORTS 6 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/6-sd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 6 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/60965
+#EXTINF:-1 tvg-ID="beinsports7ar.qa" tvg-name="BEIN SPORTS 7 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/7-sd.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 7 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/60966
+#EXTINF:-1 tvg-ID="beinsports1enar.qa" tvg-name="BEIN SPORTS 1 ENGLISH SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-1-SD.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 1 ENGLISH SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/63503
+#EXTINF:-1 tvg-ID="beinsports2enar.qa" tvg-name="BEIN SPORTS 2 ENGLISH SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-2-SD.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 2 ENGLISH SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/63504
+#EXTINF:-1 tvg-ID="beinsports3enar.qa" tvg-name="BEIN SPORTS 3 ENGLISH SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/eng-3-SD.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 3 ENGLISH SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/63505
+#EXTINF:-1 tvg-ID="beinsports1frar.qa" tvg-name="BEIN SPORTS 1 FRENCH SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/fr-1-SD.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 1 FRENCH SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/117945
+#EXTINF:-1 tvg-ID="beinsports2frar.qa" tvg-name="BEIN SPORTS 2 FRENCH SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/fr-2-SD.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 2 FRENCH SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/117946
+#EXTINF:-1 tvg-ID="beinsports3frar.qa" tvg-name="BEIN SPORTS 3 FRENCH SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/fr-3-SD.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS 3 FRENCH SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/117947
+#EXTINF:-1 tvg-ID="beinsportsxtra1ar.qa" tvg-name="BEIN SPORTS XTRA 1 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra1-SD.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS XTRA 1 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/117948
+#EXTINF:-1 tvg-ID="beinsportsxtra2ar.qa" tvg-name="BEIN SPORTS XTRA 2 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/xtra2-SD.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS XTRA 2 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/117949
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS AFC SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/177002
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC 1 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS AFC 1 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/177003
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC 2 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS AFC 2 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/177004
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS AFC 3 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/beIN_Global.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS AFC 3 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/177005
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 1 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_1.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS MAX 1 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216792
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 2 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_2.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS MAX 2 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216793
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 3 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_3.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS MAX 3 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216794
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 4 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_4.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS MAX 4 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216795
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 5 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_5.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS MAX 5 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216796
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN SPORTS MAX 6 SD" tvg-logo="http://vodkom.com:25461/Logo/BEIN/BEIN_SPORTS_MAX_6.png" group-title="AR BEIN SPORTS HD",BEIN SPORTS MAX 6 SD
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/216797
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 #EXTINF:-1 tvg-ID="" tvg-name="COLOMBIA: DIRECTV SPORTS 1" tvg-logo="" group-title="US COLOMBIA",COLOMBIA: DIRECTV SPORTS 1
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94464
 #EXTINF:-1 tvg-ID="" tvg-name="COLOMBIA: DIRECTV SPORTS 2" tvg-logo="" group-title="US COLOMBIA",COLOMBIA: DIRECTV SPORTS 2
