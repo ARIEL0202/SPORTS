@@ -22,8 +22,16 @@ http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94758
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94759
 #EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: DIRECT TV SPORTS PLUS" tvg-logo="" group-title="US ARGENTINE", DIRECT TV SPORTS PLUS
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94760
-#EXTINF:-1 tvg-ID="" tvg-name="LATIN: TDN" tvg-logo="" group-title="US LATIN", TDN
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: TDN" tvg-logo="" group-title="US LATIN", TUDN
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94983
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: UNIVISION DEPORTES" tvg-logo="" group-title="US LATIN",LATIN: UNIVISION DEPORTES
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95094
+#EXTINF:-1 tvg-ID="" tvg-name="LATIN: CLARO SPORT" tvg-logo="" group-title="US LATIN",LATIN: CLARO SPORT
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/95097
+#EXTINF:-1 tvg-ID="mligadecampeones2.es" tvg-name="|ES| M. LCAMPEON 2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON2.png" group-title="ESPANOL DEPORTES",|ES| M. LCAMPEON 2
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/127821
+#EXTINF:-1 tvg-ID="" tvg-name="|CHILE| CHILEVISION" tvg-logo="" group-title="US LATIN OTHER",|CHILE| CHILEVISION
+http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/191251
 
 #EXTINF:-1 tvg-ID="" tvg-name="|URUGUAY| ESPN" tvg-logo="" group-title="US LATIN OTHER",|URUGUAY| ESPN
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/191211
