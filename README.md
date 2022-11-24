@@ -4,8 +4,12 @@ http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94758
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94761
 #EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: TNT SPORT" tvg-logo="" group-title="US ARGENTINE", TNT SPORTS
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94757
+#EXTINF:-1 tvg-id="" tvg-name="Qatar: TYC Sports HD "Argentina"" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/251px-2022_FIFA_World_Cup.svg.png" group-title="# QATAR MUNDIAL 2022 ⚽  10/11/2022",Qatar: TYC Sports HD "Argentina"
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/451260
 #EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: TV PUBLICA" tvg-logo="" group-title="US ARGENTINE", TV PUBLICA
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94730
+#EXTINF:-1 tvg-id="" tvg-name="Qatar: TUDN HD "Mexico"" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/251px-2022_FIFA_World_Cup.svg.png" group-title="# QATAR MUNDIAL 2022 ⚽  10/11/2022",Qatar: TUDN HD "Mexico"
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/451286
 #EXTINF:-1 tvg-ID="" tvg-name="LATIN: TDN" tvg-logo="" group-title="US LATIN", TUDN
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94983
 #EXTINF:-1 tvg-ID="mligadecampeones2.es" tvg-name="|ES| M. LCAMPEON 2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON2.png" group-title="ESPANOL DEPORTES",|ES| M. LCAMPEON 2
