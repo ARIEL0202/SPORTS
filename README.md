@@ -1,19 +1,15 @@
+#EXTINF:-1 tvg-id="" tvg-name="Qatar: TYC Sports HD "Argentina"" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/251px-2022_FIFA_World_Cup.svg.png" group-title="# QATAR MUNDIAL 2022 ⚽  10/11/2022",Qatar: TYC Sports HD "Argentina"
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/451260
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="SP: ARG: Directv Sports 1 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/DirecTV_Sports.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: Directv Sports 1 HD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26524
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Directv Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: Directv Sports 2 HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/103064
 #EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Directv Sports + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: Directv Sports + HD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/103065
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 1 (Movil) (Fibra)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/ESPN.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN 1 (Movil) (Fibra)
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/443339
+#EXTINF:-1 tvg-id="" tvg-name="Qatar: TUDN HD "Mexico"" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/251px-2022_FIFA_World_Cup.svg.png" group-title="# QATAR MUNDIAL 2022 ⚽  10/11/2022",Qatar: TUDN HD "Mexico"
+http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/451286
 #EXTINF:-1 tvg-id="espn.ar" tvg-name="SP: ARG: ESPN 1 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/ESPN.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN 1 HD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/115725
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 2 (Movil) (Fibra)" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/ESPN2.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN 2 (Movil) (Fibra)
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/443340
 #EXTINF:-1 tvg-id="espn2.ar" tvg-name="SP: ARG: ESPN 2 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/ESPN2.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN 2 HD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/31814
-#EXTINF:-1 tvg-id="espn3.ar" tvg-name="SP: ARG: ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN 3 HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/31815
 #EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN 4 SD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/308136
 #EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 4 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN 4 
@@ -22,37 +18,20 @@ http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/305906
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/31810
 #EXTINF:-1 tvg-id="espn.ar" tvg-name="SP: ARG: ESPN Premium SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN Premium SD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/233836
-#EXTINF:-1 tvg-id="canal11.cr" tvg-name="SP: ARG: ESPN Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN Premium HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/32331
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN Premium FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN Premium FHD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/69258
 #EXTINF:-1 tvg-id="foxsports.ar" tvg-name="SP: ARG: Fox Sports HD" tvg-logo="http://swedtv.net:8080/images/823b02cf6dcc9b7a012555a19c61a2fd.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: Fox Sports HD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26531
 #EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="SP: ARG: Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: Fox Sports 2 HD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26533
 #EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="SP: ARG: Fox Sports 3 HD" tvg-logo="http://swedtv.net:8080/images/4fd6f45cbaeaca8b680911a530e97a58.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: Fox Sports 3 HD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/158180
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TNT Sports (Movil) (Fibra)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: TNT Sports (Movil) (Fibra)
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/451029
 #EXTINF:-1 tvg-id="tntsports.ar" tvg-name="SP: ARG: TNT Sports SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: TNT Sports SD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/233835
-#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="SP: ARG: TNT Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: TNT Sports HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26530
-#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="SP: ARG: TNT Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: TNT Sports FHD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/1901
 #EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports HD (Fibra)" tvg-logo="" group-title="LAT - Argentina Deportes ⚽",SP: ARG: TyC Sports HD (Fibra)
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/451765
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports FHD (Fibra) (H265) " tvg-logo="" group-title="LAT - Argentina Deportes ⚽",SP: ARG: TyC Sports FHD (Fibra) (H265) 
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/451764
 #EXTINF:-1 tvg-id="AR: TYC SPORTS" tvg-name="SP: ARG: TyC Sports Local SD" tvg-logo="http://swedtv.net:8080/images/156b98d348155f4eb3f8cbf844a4a053.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: TyC Sports Local SD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/31340
-#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="SP: ARG: TyC Sports Local FHD" tvg-logo="http://swedtv.net:8080/images/156b98d348155f4eb3f8cbf844a4a053.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: TyC Sports Local FHD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/7395
 #EXTINF:-1 tvg-id="AR: TYC SPORTS" tvg-name="SP: ARG: TyC Sports Internacional SD" tvg-logo="http://swedtv.net:8080/images/6d5f8effa62fdde97d06d6aa9f8fcff3.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: TyC Sports Internacional SD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/233945
-#EXTINF:-1 tvg-id="AR: TYC SPORTS 2" tvg-name="SP: ARG: TyC Sports Internacional HD" tvg-logo="http://swedtv.net:8080/images/6d5f8effa62fdde97d06d6aa9f8fcff3.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: TyC Sports Internacional HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/1903
-
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: DIRECT TV SPORTS" tvg-logo="" group-title="US ARGENTINE", DIRECT TV SPORTS
@@ -61,12 +40,8 @@ http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94758
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94761
 #EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: TNT SPORT" tvg-logo="" group-title="US ARGENTINE", TNT SPORTS
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94757
-#EXTINF:-1 tvg-id="" tvg-name="Qatar: TYC Sports HD "Argentina"" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/251px-2022_FIFA_World_Cup.svg.png" group-title="# QATAR MUNDIAL 2022 ⚽  10/11/2022",Qatar: TYC Sports HD "Argentina"
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/451260
 #EXTINF:-1 tvg-ID="" tvg-name="ARGENTINA: TV PUBLICA" tvg-logo="" group-title="US ARGENTINE", TV PUBLICA
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94730
-#EXTINF:-1 tvg-id="" tvg-name="Qatar: TUDN HD "Mexico"" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/251px-2022_FIFA_World_Cup.svg.png" group-title="# QATAR MUNDIAL 2022 ⚽  10/11/2022",Qatar: TUDN HD "Mexico"
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/451286
 #EXTINF:-1 tvg-ID="" tvg-name="LATIN: TDN" tvg-logo="" group-title="US LATIN", TUDN
 http://balkanfree.net:25461/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/94983
 #EXTINF:-1 tvg-ID="mligadecampeones2.es" tvg-name="|ES| M. LCAMPEON 2" tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/M.LCAMPEON2.png" group-title="ESPANOL DEPORTES",|ES| M. LCAMPEON 2
