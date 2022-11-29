@@ -8,7 +8,7 @@ http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/103065
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/451286
 #EXTINF:-1 tvg-id="espn.ar" tvg-name="SP: ARG: ESPN 1 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/ESPN.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN 1 HD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/115725
-#EXTINF:-1 tvg-id="espn2.ar" tvg-name="SP: ARG: ESPN 2 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/ESPN2.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN 2 HD
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="SP: ARG: ESPN 2 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/ESPN2.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN 2 HD    
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/31814
 #EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN 4 SD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/308136
