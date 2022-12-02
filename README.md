@@ -18,7 +18,7 @@ http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/305906
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/31810
 #EXTINF:-1 tvg-id="espn.ar" tvg-name="SP: ARG: ESPN Premium SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN Premium SD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/233836
-#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="SP: ARG: Fox Sports HD" tvg-logo="http://swedtv.net:8080/images/823b02cf6dcc9b7a012555a19c61a2fd.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: Fox Sports HD
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="SP: ARG: Fox Sports HD" tvg-logo="http://swedtv.net:8080/images/823b02cf6dcc9b7a012555a19c61a2fd.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: Fox Sports HD     
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26531
 #EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="SP: ARG: Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: Fox Sports 2 HD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26533
