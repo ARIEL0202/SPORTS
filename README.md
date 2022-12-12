@@ -33,6 +33,19 @@ http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/31340
 #EXTINF:-1 tvg-id="AR: TYC SPORTS" tvg-name="SP: ARG: TyC Sports Internacional SD" tvg-logo="http://swedtv.net:8080/images/6d5f8effa62fdde97d06d6aa9f8fcff3.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: TyC Sports Internacional SD
 http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/233945
 
+#EXTINF:-1 tvg-id="" tvg-name="AR| DEPORTV" tvg-logo="http://l3d.us:8080/images/cc2d8b5521b26272929e8d935fff1fde.png" group-title="TV | Argentina",AR| DEPORTV
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210849
+#EXTINF:-1 tvg-id="" tvg-name="2MB| Directv Sports" tvg-logo="http://l3d.us:25461/images/5e56db18ff5269bd636438936869d6cf.png" group-title="TV | 2 Megas",2MB| Directv Sports
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2123473
+#EXTINF:-1 tvg-id="" tvg-name="2MB| Directv Sports 2" tvg-logo="http://l3d.us:25461/images/d1e84a773c0b0d9dbe94909eb3034389.png" group-title="TV | 2 Megas",2MB| Directv Sports 2
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2123474
+#EXTINF:-1 tvg-id="" tvg-name="AR| TNT Sports HD" tvg-logo="" group-title="TV | Argentina",AR| TNT Sports HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2140800
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="2MB | TUDN MX LQ" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | 2 Megas",2MB | TUDN MX LQ
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092577
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="2MB | TUDN USA" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | 2 Megas",2MB | TUDN USA
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092604
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", EVENTOS TNT Sports  Brasil
