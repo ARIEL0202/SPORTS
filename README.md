@@ -10,6 +10,34 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2140800
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092577
 #EXTINF:-1 tvg-id="tudn.mx" tvg-name="2MB | TUDN USA" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | 2 Megas",2MB | TUDN USA
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092604
+#EXTINF:-1 tvg-id="" tvg-name="2MB | UFC Fight Pass" tvg-logo="http://l3d.us:25461/images/c1fa1fd1a5ebc393e3a42ac31b7f7a04.png" group-title="TV | 2 Megas",2MB | UFC Fight Pass
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2095413
+#EXTINF:-1 tvg-id="" tvg-name="2MB | Espn 2 LQ" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | 2 Megas",2MB | Espn 2 LQ
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2095415
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="2MB | ESPN MX" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | 2 Megas",2MB | ESPN MX
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092626
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="2MB | Fox Sports" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | 2 Megas",2MB | Fox Sports
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092587
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="2MB | FOX SPORTS 2 LQ" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | 2 Megas",2MB | FOX SPORTS 2 LQ
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092588
+#EXTINF:-1 tvg-id="" tvg-name="2MB | Win Sports" tvg-logo="http://l3d.us:25461/images/caaba3362608ac504d23dfef6da35ad1.png" group-title="TV | 2 Megas",2MB | Win Sports
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2095416
+#EXTINF:-1 tvg-id="" tvg-name="2MB| Sky Sports F1" tvg-logo="http://l3d.us:25461/images/685d60febc800c122fda3d06abe7e6be.png" group-title="TV | 2 Megas",2MB| Sky Sports F1
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2123477
+#EXTINF:-1 tvg-id="" tvg-name="2MB| Espn Deportes" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | 2 Megas",2MB| Espn Deportes
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2123475
+#EXTINF:-1 tvg-id="" tvg-name="2MB| Espn Extra" tvg-logo="http://l3d.us:25461/images/9cc63a8679ee23143479f122eb416e96.png" group-title="TV | 2 Megas",2MB| Espn Extra
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2123476
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1280px-TSN_Logo.svg.png" group-title="TV | USA Sports",CA | TSN SPORTS 1
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2113509
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN SPORTS 2" tvg-logo="http://l3d.us:25461/images/e324ca08ff1b5d24373901863302eecb.png" group-title="TV | USA Sports",CA | TSN SPORTS 2
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2113510
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/1280px-TSN_Logo.svg.png" group-title="TV | USA Sports",CA | TSN SPORTS 3
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2113511
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN SPORTS 4" tvg-logo="http://l3d.us:25461/images/06307c61c6134686ec199342a7ff423f.png" group-title="TV | USA Sports",CA | TSN SPORTS 4
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2113512
+#EXTINF:-1 tvg-id="" tvg-name="CA | TSN SPORTS 5" tvg-logo="http://l3d.us:25461/images/1ad19be89a6ed3a66a7050db2d47a0f0.png" group-title="TV | USA Sports",CA | TSN SPORTS 5
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2113513
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
