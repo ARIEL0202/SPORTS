@@ -23,7 +23,7 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/169243
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2130323
 #EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="D| TVC Deportes" tvg-logo="http://l3d.us:25461/images/b144097b072789019d0c2098c4007f69.png" group-title="TV | Deportes",D| TVC Deportes
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/10944
-#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="D| TVC Deportes HD" tvg-logo="http://l3d.us:25461/images/b144097b072789019d0c2098c4007f69.png" group-title="TV | Deportes",D| TVC Deportes HD
+#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="D| TVC Deportes HD" tvg-logo="http://l3d.us:25461/images/b144097b072789019d0c2098c4007f69.png" group-title="TV | Deportes",D| TVC Deportes HD    
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2145706
 
 #EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports" tvg-logo="http://l3d.us:25461/images/7d41cab9ab9cd931ee6eefb75e22e9ad.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports
