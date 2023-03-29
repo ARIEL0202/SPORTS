@@ -5,18 +5,17 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/25279
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155677
 #EXTINF:-1 tvg-id="tntsports.ar" tvg-name="D| TNT Sports HD" tvg-logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Deportes",D| TNT Sports HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155247
+
+#EXTINF:-1 tvg-id="" tvg-name="D| ESPN Premium ARG" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| ESPN Premium ARG
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121662
+#EXTINF:-1 tvg-id="espn.ar" tvg-name="D| Espn | ARG" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | ARG
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/181047
 #EXTINF:-1 tvg-id="espn2.ar" tvg-name="D| Espn 2 | ARG" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | ARG
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/181346
-#EXTINF:-1 tvg-id="espn2.ar" tvg-name="D| Espn 2 | ARG HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | ARG HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/181332
-#EXTINF:-1 tvg-id="espn2.co" tvg-name="D| Espn 2 | COL" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | COL
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/181350
 #EXTINF:-1 tvg-id="espn2.co" tvg-name="D| Espn 2 | COL HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | COL HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/202084
 #EXTINF:-1 tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | MX
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/10939
-#EXTINF:-1 tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | MX HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155473
 #EXTINF:-1 tvg-id="espn3.ar" tvg-name="D| Espn 3 | ARG" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 3 | ARG
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/181348
 #EXTINF:-1 tvg-id="espn3.co" tvg-name="D| Espn 3 | COL" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 3 | COL
@@ -41,18 +40,10 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/181370
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121734
 #EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn Plus | MX HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn Plus | MX HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/10942
-#EXTINF:-1 tvg-id="" tvg-name="D| ESPN Premium ARG" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| ESPN Premium ARG
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121662
-#EXTINF:-1 tvg-id="espn.ar" tvg-name="D| Espn | ARG" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | ARG
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/181047
 #EXTINF:-1 tvg-id="espn.co" tvg-name="D| Espn | COL" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | COL
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/181016
-#EXTINF:-1 tvg-id="espn.co" tvg-name="D| Espn | COL HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | COL HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/181347
 #EXTINF:-1 tvg-id="espn.mx" tvg-name="D| Espn | MX" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | MX
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/10940
-#EXTINF:-1 tvg-id="espn.mx" tvg-name="D| Espn | MX HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | MX HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155472
 #EXTINF:-1 tvg-id="" tvg-name="2MB| Espn Deportes" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | 2 Megas",2MB| Espn Deportes
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2123475
 #EXTINF:-1 tvg-id="" tvg-name="2MB| Espn Extra" tvg-logo="http://l3d.us:25461/images/9cc63a8679ee23143479f122eb416e96.png" group-title="TV | 2 Megas",2MB| Espn Extra
@@ -875,3 +866,13 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/199511
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/10920
 #EXTINF:-1 tvg-id="tycsports.ar" tvg-name="D| TyC Sports Internacional HD" tvg-logo="http://l3d.us:25461/images/2aaf0c473413e80cde32fcf546039218.png" group-title="TV | Deportes",D| TyC Sports Internacional HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155679
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="D| Espn 2 | ARG HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | ARG HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/181332
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="D| Espn 2 | COL" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | COL
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/181350
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | MX HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/155473
+#EXTINF:-1 tvg-id="espn.co" tvg-name="D| Espn | COL HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | COL HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/181347
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="D| Espn | MX HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | MX HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/155472
