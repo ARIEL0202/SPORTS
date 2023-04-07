@@ -1,13 +1,15 @@
 #EXTINF:-1 tvg-id="tycsports.ar" tvg-name="D| TYC Sports" tvg-logo="http://l3d.us:25461/images/2aaf0c473413e80cde32fcf546039218.png" group-title="TV | Deportes",D| TYC Sports
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/25279
+#EXTINF:-1 tvg-id="" tvg-name="D| ESPN Premium ARG" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| ESPN Premium ARG
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121662
+#EXTINF:-1 tvg-id="" tvg-name="D | BEIN SPORTS EN ESPAÑOL" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | Bein Sports Channels",D | BEIN SPORTS EN ESPAÑOL
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144818
 
 #EXTINF:-1 tvg-id="tntsports.ar" tvg-name="D| TNT Sports" tvg-logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Deportes",D| TNT Sports
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155677
 #EXTINF:-1 tvg-id="tntsports.ar" tvg-name="D| TNT Sports HD" tvg-logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Deportes",D| TNT Sports HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155247
 
-#EXTINF:-1 tvg-id="" tvg-name="D| ESPN Premium ARG" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| ESPN Premium ARG
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121662
 #EXTINF:-1 tvg-id="espn.ar" tvg-name="D| Espn | ARG" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | ARG
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/181047
 #EXTINF:-1 tvg-id="espn2.ar" tvg-name="D| Espn 2 | ARG" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 2 | ARG
@@ -20,8 +22,6 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/10939
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/181348
 #EXTINF:-1 tvg-id="espn3.co" tvg-name="D| Espn 3 | COL" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 3 | COL
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/181352
-#EXTINF:-1 tvg-id="espn3.co" tvg-name="D| Espn 3 | COL HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 3 | COL HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/202088
 #EXTINF:-1 tvg-id="plustvcanal6.pe" tvg-name="D| Espn 3 | MX" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 3 | MX
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/10941
 #EXTINF:-1 tvg-id="espn3.mx" tvg-name="D| Espn 3 | MX HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 3 | MX HD
@@ -32,10 +32,6 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121660
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121680
 #EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="D| Espn Deportes" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn Deportes
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/202473
-#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="D| Espn Deportes | HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn Deportes | HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/158472
-#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn EXTRA" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn EXTRA
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/181370
 #EXTINF:-1 tvg-id="" tvg-name="D| Espn Plus Sur CO" tvg-logo="http://l3d.us:25461/images/c000afc0556ce4a8ae9b89f356848dba.png" group-title="TV | Deportes",D| Espn Plus Sur CO
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2121734
 #EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn Plus | MX HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn Plus | MX HD
@@ -46,41 +42,81 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/181016
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/10940
 #EXTINF:-1 tvg-id="" tvg-name="2MB| Espn Deportes" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | 2 Megas",2MB| Espn Deportes
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2123475
+#EXTINF:-1 tvg-id="" tvg-name="2MB | Espn 2 LQ" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | 2 Megas",2MB | Espn 2 LQ
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2095415
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="2MB | ESPN MX" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | 2 Megas",2MB | ESPN MX
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092626
 #EXTINF:-1 tvg-id="" tvg-name="2MB| Espn Extra" tvg-logo="http://l3d.us:25461/images/9cc63a8679ee23143479f122eb416e96.png" group-title="TV | 2 Megas",2MB| Espn Extra
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2123476
-#EXTINF:-1 tvg-id="tudn.mx" tvg-name="D| TUDN" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | Deportes",D| TUDN
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/191356
-
-#EXTINF:-1 tvg-id="tudn.mx" tvg-name="D| TUDN US" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | Deportes",D| TUDN US
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/194924
-
-#EXTINF:-1 tvg-id="" tvg-name="D | Zona TUDN MX" tvg-logo="" group-title="TV | Deportes",D | Zona TUDN MX
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2130323
-#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="D| TVC Deportes" tvg-logo="http://l3d.us:25461/images/b144097b072789019d0c2098c4007f69.png" group-title="TV | Deportes",D| TVC Deportes
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/10944
 
 #EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports" tvg-logo="http://l3d.us:25461/images/7d41cab9ab9cd931ee6eefb75e22e9ad.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/11047
 #EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports 2 HD" tvg-logo="http://l3d.us:25461/images/f9cae80128323bea8880111805e7da23.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports 2 HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/11025
-
 #EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports Plus HD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports Plus HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/11026
+
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes | USA" tvg-logo="http://l3d.us:25461/images/0e1bb815eba0746f8685abb3ec5338a3.png" group-title="TV | Deportes",D| FOX Deportes | USA
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/200284
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes | USA HD" tvg-logo="http://l3d.us:25461/images/0e1bb815eba0746f8685abb3ec5338a3.png" group-title="TV | Deportes",D| FOX Deportes | USA HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10928
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| Fox Sports 2 | ARG" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | ARG
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/183215
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| Fox Sports 2 | ARG HD" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | ARG HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10957
+#EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="D| Fox Sports 2 | CL HD" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | CL HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/183332
+#EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="D| Fox Sports 2 | COL HD" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | COL HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/202097
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="D| Fox Sports 2 | MX" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | MX
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10949
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="D| Fox Sports 2 | MX HD" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | MX HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10952
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| Fox Sports 3 | ARG" tvg-logo="http://l3d.us:25461/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | ARG
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10958
+#EXTINF:-1 tvg-id="foxsports3conosur.co" tvg-name="D| Fox Sports 3 | CL" tvg-logo="http://l3d.us:25461/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | CL
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/183334
+#EXTINF:-1 tvg-id="foxsports3conosur.co" tvg-name="D| Fox Sports 3 | COL HD" tvg-logo="http://l3d.us:25461/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | COL HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/202100
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="D| Fox Sports 3 | MX" tvg-logo="http://l3d.us:25461/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | MX
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10945
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="D| Fox Sports 3 | MX HD" tvg-logo="http://l3d.us:25461/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | MX HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10951
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| FOX Sports Premium Arg" tvg-logo="http://l3d.us:25461/images/0e1bb815eba0746f8685abb3ec5338a3.png" group-title="TV | Deportes",D| FOX Sports Premium Arg
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/195839
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| FOX Sports Premium Arg HD" tvg-logo="http://l3d.us:25461/images/0e1bb815eba0746f8685abb3ec5338a3.png" group-title="TV | Deportes",D| FOX Sports Premium Arg HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10915
+#EXTINF:-1 tvg-id="" tvg-name="D| Fox Sports | ARG" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | ARG
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090080
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="D| Fox Sports | ARG HD" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | ARG HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/14651
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="D| Fox Sports | CL" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | CL
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/183331
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="D| Fox Sports | CL HD" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | CL HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/183330
+#EXTINF:-1 tvg-id="foxsportsconosur.co" tvg-name="D| Fox Sports | COL" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | COL
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/183212
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| Fox Sports | MX" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | MX
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10950
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| Fox Sports | MX HD" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | MX HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/155648
+#EXTINF:-1 tvg-id="" tvg-name="D | Fox Sports Premium | MX" tvg-logo="http://l3d.us:25461/images/4f8890c2fd53da87443d1f6f5e8857b7.png" group-title="TV | Deportes",D | Fox Sports Premium | MX
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2106730
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="D| TUDN" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | Deportes",D| TUDN
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/191356
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="D| TUDN US" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | Deportes",D| TUDN US
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/194924
+#EXTINF:-1 tvg-id="" tvg-name="D | Zona TUDN MX" tvg-logo="" group-title="TV | Deportes",D | Zona TUDN MX
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2130323
+#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="D| TVC Deportes" tvg-logo="http://l3d.us:25461/images/b144097b072789019d0c2098c4007f69.png" group-title="TV | Deportes",D| TVC Deportes
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/10944
+
 #EXTINF:-1 tvg-id="" tvg-name="AR| DEPORTV" tvg-logo="http://l3d.us:8080/images/cc2d8b5521b26272929e8d935fff1fde.png" group-title="TV | Argentina",AR| DEPORTV
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/210849
 
 #EXTINF:-1 tvg-id="" tvg-name="AR| TNT Sports HD" tvg-logo="" group-title="TV | Argentina",AR| TNT Sports HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2140800
-#EXTINF:-1 tvg-id="tudn.mx" tvg-name="2MB | TUDN MX LQ" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | 2 Megas",2MB | TUDN MX LQ
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092577
-#EXTINF:-1 tvg-id="tudn.mx" tvg-name="2MB | TUDN USA" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | 2 Megas",2MB | TUDN USA
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092604
-#EXTINF:-1 tvg-id="" tvg-name="2MB | Espn 2 LQ" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | 2 Megas",2MB | Espn 2 LQ
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2095415
-#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="2MB | ESPN MX" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | 2 Megas",2MB | ESPN MX
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092626
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="2MB | Fox Sports" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | 2 Megas",2MB | Fox Sports
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092587
+
 #EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="2MB | FOX SPORTS 2 LQ" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | 2 Megas",2MB | FOX SPORTS 2 LQ
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092588
 #EXTINF:-1 tvg-id="" tvg-name="2MB | Win Sports" tvg-logo="http://l3d.us:25461/images/caaba3362608ac504d23dfef6da35ad1.png" group-title="TV | 2 Megas",2MB | Win Sports
@@ -99,19 +135,6 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2113512
 #EXTINF:-1 tvg-id="" tvg-name="CA | TSN SPORTS 5" tvg-logo="http://l3d.us:25461/images/1ad19be89a6ed3a66a7050db2d47a0f0.png" group-title="TV | USA Sports",CA | TSN SPORTS 5
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2113513
 
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS" tvg-logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Chile",CL | TNT SPORTS
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/25362
-#EXTINF:-1 tvg-id="cdfpremium.cl" tvg-name="CL | TNT SPORTS 2" tvg-logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Chile",CL | TNT SPORTS 2
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/25340
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS FHD" tvg-logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Chile",CL | TNT SPORTS FHD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/25365
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS HD" tvg-logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Chile",CL | TNT SPORTS HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/25363
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS HD" tvg-logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Chile",CL | TNT SPORTS HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/25369
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS SD" tvg-logo="http://l3d.us:25461/images/b66f0eaacf2659691f4766ee40839b67.png" group-title="TV | Chile",CL | TNT SPORTS SD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/25366
-
 #EXTINF:-1 tvg-id="winsports.co" tvg-name="CO | Win Sports " tvg-logo="http://l3d.us:25461/images/caaba3362608ac504d23dfef6da35ad1.png" group-title="TV | Colombia",CO | Win Sports 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/176585
 #EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="CO | Win Sports +" tvg-logo="http://l3d.us:25461/images/578950d79de655b5484ba1e91094ac61.png" group-title="TV | Colombia",CO | Win Sports +
@@ -126,42 +149,37 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/202157
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/203186
 #EXTINF:-1 tvg-id="directtvsportscheddule.ar" tvg-name="D| DIRECTV SPORTS 2" tvg-logo="http://l3d.us:25461/images/706bde645b1385e141c934c6cfe3c429.png" group-title="TV | Deportes",D| DIRECTV SPORTS 2
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/203187
+#EXTINF:-1 tvg-id="" tvg-name="D | BEIN SPORTS CANADA" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | Bein Sports Channels",D | BEIN SPORTS CANADA
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144817
 
-#EXTINF:-1 tvg-id="AR: TYC SPORTS" tvg-name="SP: ARG: TyC Sports Local SD" tvg-logo="http://swedtv.net:8080/images/156b98d348155f4eb3f8cbf844a4a053.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: TyC Sports Local SD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/31340
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="SP: ARG: Directv Sports 1 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/DirecTV_Sports.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: Directv Sports 1 HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26524
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Directv Sports + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: Directv Sports + HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/103065
-#EXTINF:-1 tvg-id="espn.ar" tvg-name="SP: ARG: ESPN 1 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/ESPN.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN 1 HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/115725
-#EXTINF:-1 tvg-id="espn2.ar" tvg-name="SP: ARG: ESPN 2 HD" tvg-logo="http://swedtv.vip/logos/ligas_deportivas/ESPN2.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN 2 HD    
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/31814
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN 4 SD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/308136
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: ESPN 4 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN 4 
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/305906
-#EXTINF:-1 tvg-id="espnxtra.ar" tvg-name="SP: ARG: ESPN Extra FHD" tvg-logo="http://swedtv.net:8080/images/bec742126a61dae6a259633a3678596a.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN Extra FHD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/31810
-#EXTINF:-1 tvg-id="espn.ar" tvg-name="SP: ARG: ESPN Premium SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: ESPN Premium SD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/233836
-#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="SP: ARG: Fox Sports HD" tvg-logo="http://swedtv.net:8080/images/823b02cf6dcc9b7a012555a19c61a2fd.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: Fox Sports HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26531
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="SP: ARG: Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: Fox Sports 2 HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/26533
-#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="SP: ARG: Fox Sports 3 HD" tvg-logo="http://swedtv.net:8080/images/4fd6f45cbaeaca8b680911a530e97a58.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: Fox Sports 3 HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/158180
-#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="SP: ARG: TNT Sports SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: TNT Sports SD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/233835
-#EXTINF:-1 tvg-id="AR: TYC SPORTS" tvg-name="SP: ARG: TyC Sports Internacional SD" tvg-logo="http://swedtv.net:8080/images/6d5f8effa62fdde97d06d6aa9f8fcff3.png" group-title="LAT - Argentina Deportes ⚽",SP: ARG: TyC Sports Internacional SD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/233945
-
-#EXTINF:-1 tvg-id="" tvg-name="Qatar: TYC Sports HD "Argentina"" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/251px-2022_FIFA_World_Cup.svg.png" group-title="# QATAR MUNDIAL 2022 ⚽  10/11/2022",Qatar: TYC Sports HD "Argentina"
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/451260
-#EXTINF:-1 tvg-id="" tvg-name="Qatar: TUDN HD "Mexico"" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/251px-2022_FIFA_World_Cup.svg.png" group-title="# QATAR MUNDIAL 2022 ⚽  10/11/2022",Qatar: TUDN HD "Mexico"
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/451286
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports HD (Fibra)" tvg-logo="" group-title="LAT - Argentina Deportes ⚽",SP: ARG: TyC Sports HD (Fibra)
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/451765
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN  2 SD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN  2 SD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144857
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 1" tvg-logo="http://l3d.us:25461/images/70174c0a783eae8342f989252f0c82e8.png" group-title="TV | Deportes",D| DAZN 1
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/223949
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 1 HD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN 1 HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144853
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 1 SD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN 1 SD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144854
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 2" tvg-logo="http://l3d.us:25461/images/70174c0a783eae8342f989252f0c82e8.png" group-title="TV | Deportes",D| DAZN 2
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/223950
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 2 HD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN 2 HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144856
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 3" tvg-logo="http://l3d.us:25461/images/70174c0a783eae8342f989252f0c82e8.png" group-title="TV | Deportes",D| DAZN 3
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/223951
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 3 HD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN 3 HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144859
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 3 SD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN 3 SD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144860
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 4 HD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN 4 HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144862
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 4 SD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN 4 SD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144863
+#EXTINF:-1 tvg-id="formula1.mx" tvg-name="D| DAZN F1" tvg-logo="http://l3d.us:25461/images/70174c0a783eae8342f989252f0c82e8.png" group-title="TV | Deportes",D| DAZN F1
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/223952
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN F1 HD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN F1 HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144850
+#EXTINF:-1 tvg-id="" tvg-name="D| DAZN F1 SD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN F1 SD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144851
 
 #EXTINF:-1 tvg-id="" tvg-name="2MB | UFC Fight Pass" tvg-logo="http://l3d.us:25461/images/c1fa1fd1a5ebc393e3a42ac31b7f7a04.png" group-title="TV | 2 Megas",2MB | UFC Fight Pass
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2095413
@@ -176,10 +194,6 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144814
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144815
 #EXTINF:-1 tvg-id="" tvg-name="D | BEIN SPORTS 8" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | Bein Sports Channels",D | BEIN SPORTS 8
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144816
-#EXTINF:-1 tvg-id="" tvg-name="D | BEIN SPORTS CANADA" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | Bein Sports Channels",D | BEIN SPORTS CANADA
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144817
-#EXTINF:-1 tvg-id="" tvg-name="D | BEIN SPORTS EN ESPAÑOL" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | Bein Sports Channels",D | BEIN SPORTS EN ESPAÑOL
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144818
 
 #EXTINF:-1 tvg-id="" tvg-name="D | TUDN1" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | Tudn Sports Channels",D | TUDN1
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144830
@@ -236,6 +250,7 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/155249
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155625
 #EXTINF:-1 tvg-id="barcatv.es" tvg-name="D| Barca TV | " tvg-logo="http://l3d.us:25461/images/40f5143a42bf4f1bdf77664a7be4a59e.png" group-title="TV | Deportes",D| Barca TV | 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/10930
+
 #EXTINF:-1 tvg-id="" tvg-name="D| BEIN SPORTS" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | Bein Sports Channels",D| BEIN SPORTS
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144810
 #EXTINF:-1 tvg-id="" tvg-name="D| BEIN SPORTS 4" tvg-logo="http://l3d.us:25461/images/032165835773df96b434dd68cc6a4990.png" group-title="TV | Bein Sports Channels",D| BEIN SPORTS 4
@@ -254,34 +269,6 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/10932
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/10924
 #EXTINF:-1 tvg-id="clarosportscolombia.co" tvg-name="D| Claro Sports Latinoamerica HD" tvg-logo="http://l3d.us:25461/images/f5a1944259815fd00c2f57062e414b8a.png" group-title="TV | Deportes",D| Claro Sports Latinoamerica HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/202070
-#EXTINF:-1 tvg-id="" tvg-name="D| DAZN  2 SD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN  2 SD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144857
-#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 1" tvg-logo="http://l3d.us:25461/images/70174c0a783eae8342f989252f0c82e8.png" group-title="TV | Deportes",D| DAZN 1
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/223949
-#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 1 HD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN 1 HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144853
-#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 1 SD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN 1 SD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144854
-#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 2" tvg-logo="http://l3d.us:25461/images/70174c0a783eae8342f989252f0c82e8.png" group-title="TV | Deportes",D| DAZN 2
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/223950
-#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 2 HD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN 2 HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144856
-#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 3" tvg-logo="http://l3d.us:25461/images/70174c0a783eae8342f989252f0c82e8.png" group-title="TV | Deportes",D| DAZN 3
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/223951
-#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 3 HD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN 3 HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144859
-#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 3 SD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN 3 SD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144860
-#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 4 HD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN 4 HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144862
-#EXTINF:-1 tvg-id="" tvg-name="D| DAZN 4 SD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN 4 SD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144863
-#EXTINF:-1 tvg-id="formula1.mx" tvg-name="D| DAZN F1" tvg-logo="http://l3d.us:25461/images/70174c0a783eae8342f989252f0c82e8.png" group-title="TV | Deportes",D| DAZN F1
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/223952
-#EXTINF:-1 tvg-id="" tvg-name="D| DAZN F1 HD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN F1 HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144850
-#EXTINF:-1 tvg-id="" tvg-name="D| DAZN F1 SD" tvg-logo="http://l3d.us:25461/images/354e7fb1a305101789fc247bcb8444d5.png" group-title="TV | Dazn Sport Channels",D| DAZN F1 SD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2144851
 
 #EXTINF:-1 tvg-id="EuroSp1" tvg-name="D| Eurosport" tvg-logo="http://l3d.us:25461/images/39ab1976e9eeb759aef2c8e36be488cf.png" group-title="TV | Deportes",D| Eurosport
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/158480
@@ -289,52 +276,8 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/158480
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/158481
 #EXTINF:-1 tvg-id="EuroSp1" tvg-name="D| Eurosports HD" tvg-logo="http://l3d.us:8080/images/39ab1976e9eeb759aef2c8e36be488cf.png" group-title="TV | Deportes",D| Eurosports HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/215598
-#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes | USA" tvg-logo="http://l3d.us:25461/images/0e1bb815eba0746f8685abb3ec5338a3.png" group-title="TV | Deportes",D| FOX Deportes | USA
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/200284
-#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="D| FOX Deportes | USA HD" tvg-logo="http://l3d.us:25461/images/0e1bb815eba0746f8685abb3ec5338a3.png" group-title="TV | Deportes",D| FOX Deportes | USA HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/10928
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| Fox Sports 2 | ARG" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | ARG
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/183215
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| Fox Sports 2 | ARG HD" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | ARG HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/10957
-#EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="D| Fox Sports 2 | CL HD" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | CL HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/183332
-#EXTINF:-1 tvg-id="foxsports2conosur.co" tvg-name="D| Fox Sports 2 | COL HD" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | COL HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/202097
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="D| Fox Sports 2 | MX" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | MX
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/10949
-#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="D| Fox Sports 2 | MX HD" tvg-logo="http://l3d.us:25461/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="TV | Deportes",D| Fox Sports 2 | MX HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/10952
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="D| Fox Sports 3 | ARG" tvg-logo="http://l3d.us:25461/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | ARG
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/10958
-#EXTINF:-1 tvg-id="foxsports3conosur.co" tvg-name="D| Fox Sports 3 | CL" tvg-logo="http://l3d.us:25461/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | CL
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/183334
-#EXTINF:-1 tvg-id="foxsports3conosur.co" tvg-name="D| Fox Sports 3 | COL HD" tvg-logo="http://l3d.us:25461/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | COL HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/202100
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="D| Fox Sports 3 | MX" tvg-logo="http://l3d.us:25461/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | MX
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/10945
-#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="D| Fox Sports 3 | MX HD" tvg-logo="http://l3d.us:25461/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="TV | Deportes",D| Fox Sports 3 | MX HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/10951
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| FOX Sports Premium Arg" tvg-logo="http://l3d.us:25461/images/0e1bb815eba0746f8685abb3ec5338a3.png" group-title="TV | Deportes",D| FOX Sports Premium Arg
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/195839
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| FOX Sports Premium Arg HD" tvg-logo="http://l3d.us:25461/images/0e1bb815eba0746f8685abb3ec5338a3.png" group-title="TV | Deportes",D| FOX Sports Premium Arg HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/10915
-#EXTINF:-1 tvg-id="" tvg-name="D| Fox Sports | ARG" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | ARG
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090080
-#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="D| Fox Sports | ARG HD" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | ARG HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/14651
-#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="D| Fox Sports | CL" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | CL
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/183331
-#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="D| Fox Sports | CL HD" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | CL HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/183330
-#EXTINF:-1 tvg-id="foxsportsconosur.co" tvg-name="D| Fox Sports | COL" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | COL
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/183212
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| Fox Sports | MX" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | MX
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/10950
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| Fox Sports | MX HD" tvg-logo="http://l3d.us:25461/images/428cba7080d0aecba5f89ad6a2beee88.png" group-title="TV | Deportes",D| Fox Sports | MX HD
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/155648
-#EXTINF:-1 tvg-id="" tvg-name="D | Fox Sports Premium | MX" tvg-logo="http://l3d.us:25461/images/4f8890c2fd53da87443d1f6f5e8857b7.png" group-title="TV | Deportes",D | Fox Sports Premium | MX
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/2106730
+
+
 #EXTINF:-1 tvg-id="futv" tvg-name="D| FUTV CR" tvg-logo="http://l3d.us:25461/images/cf0490aad367518586090a85387ead34.png" group-title="TV | Deportes",D| FUTV CR
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155246
 #EXTINF:-1 tvg-id="" tvg-name="D | Fuel TV HD" tvg-logo="" group-title="TV | Deportes",D | Fuel TV HD
@@ -876,3 +819,11 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/155473
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/181347
 #EXTINF:-1 tvg-id="espn.mx" tvg-name="D| Espn | MX HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn | MX HD
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/155472
+#EXTINF:-1 tvg-id="espn3.co" tvg-name="D| Espn 3 | COL HD" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn 3 | COL HD
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/202088
+#EXTINF:-1 tvg-id="espnplus.mx" tvg-name="D| Espn EXTRA" tvg-logo="http://l3d.us:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="TV | Deportes",D| Espn EXTRA
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/181370
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="2MB | TUDN MX LQ" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | 2 Megas",2MB | TUDN MX LQ
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092577
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="2MB | TUDN USA" tvg-logo="http://l3d.us:25461/images/d18efef240bd161e863d4e8d34a7bae2.png" group-title="TV | 2 Megas",2MB | TUDN USA
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2092604
