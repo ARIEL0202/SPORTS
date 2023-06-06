@@ -11,6 +11,183 @@ http://181.78.8.90:16123/play/ch20
 #EXTINF:-1,FOX SPORTS 3
 http://181.78.8.90:16123/play/ch21
 
+----------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS FEED YAYIN mac saati aktif" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS FEED YAYIN mac saati aktif
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/12.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 FULL HD" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 FULL HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/5395.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 HD" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/8.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 QHD" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 QHD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/5396.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 SD" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 SD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/9.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 MOBIL" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 MOBIL
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/11.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 480p" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 480p
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/26.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 4K YUKSEK KALITE" tvg-logo="https://i.hizliresim.com/psl5ml0.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 4K YUKSEK KALITE
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/7.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN SPORTS 2 FHD" tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 2 FHD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/14.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 2 HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/15.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN SPORTS 2 SD" tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 2 SD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/16.ts
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN SPORTS 3 FHD" tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 3 FHD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/17.ts
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN SPORTS 3 HD" tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 3 HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/18.ts
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN SPORTS 3 SD MOBIL" tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 3 SD MOBIL
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/9237.ts
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="beIN SPORTS 4 FHD" tvg-logo="https://i.hizliresim.com/ex5tbef.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 4 FHD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/19.ts
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="beIN SPORTS 4 HD" tvg-logo="https://i.hizliresim.com/ex5tbef.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 4 HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/9238.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 5 FHD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/69216.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 5 HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/69215.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN SPORTS MAX 1 FHD" tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS MAX 1 FHD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/20.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN SPORTS MAX 1 HD" tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS MAX 1 HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/9233.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN SPORTS MAX 1 Yedek" tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS MAX 1 Yedek
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/9234.ts
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN SPORTS MAX 2 FHD" tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS MAX 2 FHD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/21.ts
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN SPORTS MAX 2 HD" tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS MAX 2 HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/9235.ts
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN SPORTS MAX 2 Yedek" tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS MAX 2 Yedek
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/9236.ts
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="beIN SPORTS HABER FHD" tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS HABER FHD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/22.ts
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="beIN SPORTS HABER HD" tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS HABER HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/22358.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC HD -1" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="1)TR➾ beIN SPORTS	",BEINCONNET CANLI MAC HD -1
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/30561.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC HD -2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="1)TR➾ beIN SPORTS	",BEINCONNET CANLI MAC HD -2
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/30562.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC HD -3" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="1)TR➾ beIN SPORTS	",BEINCONNET CANLI MAC HD -3
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/30563.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC HD -4" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="1)TR➾ beIN SPORTS	",BEINCONNET CANLI MAC HD -4
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/30564.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC HD -5" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="1)TR➾ beIN SPORTS	",BEINCONNET CANLI MAC HD -5
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/30565.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC HD -6" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="1)TR➾ beIN SPORTS	",BEINCONNET CANLI MAC HD -6
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/30566.ts
+#EXTINF:-1 tvg-id="" tvg-name="₪₪₪₪₪ [ TURKEY SPORT ] ₪₪₪₪₪" tvg-logo="https://seeklogo.com/images/T/turkiye-yuvarlak-logo-6483C54DD8-seeklogo.com.png" group-title="2)TR➾ SPOR",₪₪₪₪₪ [ TURKEY SPORT ] ₪₪₪₪₪
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/13.ts
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S SPORT FHD" tvg-logo="https://i.hizliresim.com/b5gwe5i.png" group-title="2)TR➾ SPOR",S SPORT FHD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/24.ts
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S SPORT HD" tvg-logo="https://i.hizliresim.com/b5gwe5i.png" group-title="2)TR➾ SPOR",S SPORT HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/20085.ts
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="S SPORT 2 FHD" tvg-logo="https://i.hizliresim.com/28owbto.png" group-title="2)TR➾ SPOR",S SPORT 2 FHD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/25.ts
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="S SPORT 2 HD" tvg-logo="https://i.hizliresim.com/28owbto.png" group-title="2)TR➾ SPOR",S SPORT 2 HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/20086.ts
+#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="SPOR SMART FHD" tvg-logo="https://i.hizliresim.com/hknh5hg.png" group-title="2)TR➾ SPOR",SPOR SMART FHD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/20929.ts
+#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="SPOR SMART FHD Yedek" tvg-logo="https://i.hizliresim.com/hknh5hg.png" group-title="2)TR➾ SPOR",SPOR SMART FHD Yedek
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/23.ts
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="SPOR SMART HD" tvg-logo="https://i.hizliresim.com/hknh5hg.png" group-title="2)TR➾ SPOR",SPOR SMART HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/19465.ts
+#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="SPOR SMART HD Yedek" tvg-logo="https://i.hizliresim.com/hknh5hg.png" group-title="2)TR➾ SPOR",SPOR SMART HD Yedek
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/22489.ts
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="SPOR SMART 2 HD" tvg-logo="https://i.hizliresim.com/sfno83t.png" group-title="2)TR➾ SPOR",SPOR SMART 2 HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/19320.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART 2 HD Yedek" tvg-logo="https://i.hizliresim.com/sfno83t.png" group-title="2)TR➾ SPOR",SPOR SMART 2 HD Yedek
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/20087.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR HD" tvg-logo="https://i.hizliresim.com/cb7ud0a.png" group-title="2)TR➾ SPOR",TIVIBU SPOR HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/91777.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 1 HD" tvg-logo="https://i.hizliresim.com/cb7ud0a.png" group-title="2)TR➾ SPOR",TIVIBU SPOR 1 HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/27.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 2 HD" tvg-logo="https://i.hizliresim.com/cb7ud0a.png" group-title="2)TR➾ SPOR",TIVIBU SPOR 2 HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/28.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 3 HD" tvg-logo="https://i.hizliresim.com/cb7ud0a.png" group-title="2)TR➾ SPOR",TIVIBU SPOR 3 HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/29.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 4 HD" tvg-logo="https://i.hizliresim.com/cb7ud0a.png" group-title="2)TR➾ SPOR",TIVIBU SPOR 4 HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/36055.ts
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.hizliresim.com/4zr16ap.png" group-title="2)TR➾ SPOR",EUROSPORT 1 HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/34.ts
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="EUROSPORT 2 HD" tvg-logo="https://i.hizliresim.com/1wmmepl.png" group-title="2)TR➾ SPOR",EUROSPORT 2 HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/35.ts
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="NBA TV HD" tvg-logo="https://i.hizliresim.com/9r09rpb.png" group-title="2)TR➾ SPOR",NBA TV HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/36.ts
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRT SPOR FHD" tvg-logo="https://i.hizliresim.com/6t0gunx.png" group-title="2)TR➾ SPOR",TRT SPOR FHD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/30.ts
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRT SPOR HD" tvg-logo="https://i.hizliresim.com/6t0gunx.png" group-title="2)TR➾ SPOR",TRT SPOR HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/9241.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR YILDIZ HD" tvg-logo="https://seeklogo.com/images/T/trt-spor-yildiz-logo-82B4ECE508-seeklogo.com.png" group-title="2)TR➾ SPOR",TRT SPOR YILDIZ HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/35965.ts
+#EXTINF:-1 tvg-id="aspor.tr" tvg-name="A SPOR HD" tvg-logo="https://i.hizliresim.com/nprwity.png" group-title="2)TR➾ SPOR",A SPOR HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/31.ts
+#EXTINF:-1 tvg-id="gstv.tr" tvg-name="GS TV HD" tvg-logo="https://i.hizliresim.com/qthu06d.png" group-title="2)TR➾ SPOR",GS TV HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/32.ts
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-name="FB TV HD" tvg-logo="https://i.hizliresim.com/595b8ji.png" group-title="2)TR➾ SPOR",FB TV HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/33.ts
+#EXTINF:-1 tvg-id="" tvg-name="TJK TV" tvg-logo="https://seeklogo.com/images/T/TJK-logo-5672938FF8-seeklogo.com.png" group-title="2)TR➾ SPOR",TJK TV
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/37.ts
+#EXTINF:-1 tvg-id="" tvg-name="FIGHTBOX HD" tvg-logo="https://i.hizliresim.com/bubfwp5.png" group-title="2)TR➾ SPOR",FIGHTBOX HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/3539.ts
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK KICKBOKS" tvg-logo="https://seeklogo.com/images/B/box-logo-BF13409756-seeklogo.com.png" group-title="2)TR➾ SPOR",PROTURK KICKBOKS
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/20322.ts
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK WWE SMACKDOWN" tvg-logo="https://i.hizliresim.com/ffdwilm.png" group-title="2)TR➾ SPOR",PROTURK WWE SMACKDOWN
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/20323.ts
+#EXTINF:-1 tvg-id="" tvg-name="PROTURK EGZERSIZ SPORLARI" tvg-logo="https://i.hizliresim.com/icen896.png" group-title="2)TR➾ SPOR",PROTURK EGZERSIZ SPORLARI
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/20324.ts
+#EXTINF:-1 tvg-id="" tvg-name="EDGE SPORT HD" tvg-logo="http://89.105.197.2/logo/edgesport.png" group-title="2)TR➾ SPOR",EDGE SPORT HD
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/21010.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN HD 1" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN HD 1
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/35702.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 1 720p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN 1 720p
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/36269.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 1 576p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN 1 576p
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/37842.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN HD 2" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN HD 2
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/36085.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 2 720p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN 2 720p
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/36268.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN HD 3" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN HD 3
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/36086.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 3 720p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN 3 720p
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/36267.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN HD 4" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN HD 4
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/37725.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 4 720p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN 4 720p
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/37726.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN HD 5" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN HD 5
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/37727.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 5 720p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN 5 720p
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/37728.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN HD 6" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN HD 6
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/37729.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 6 720p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN 6 720p
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/37730.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN HD 7" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN HD 7
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/50566.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 7 720p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN 7 720p
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/50567.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN HD 8" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN HD 8
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/50568.ts
+#EXTINF:-1 tvg-id="" tvg-name="EXXEN 8 720p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN 8 720p
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/50569.ts
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 1 HD ( Yayın zamanı aktif )" tvg-logo="https://i.hizliresim.com/8px7pya.png" group-title="2)TR➾ SPOR",S SPORT PLUS 1 HD ( Yayın zamanı aktif )
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/35959.ts
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 2 HD ( Yayın zamanı aktif )" tvg-logo="https://i.hizliresim.com/8px7pya.png" group-title="2)TR➾ SPOR",S SPORT PLUS 2 HD ( Yayın zamanı aktif )
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/35960.ts
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 3 HD ( Yayın zamanı aktif )" tvg-logo="https://i.hizliresim.com/8px7pya.png" group-title="2)TR➾ SPOR",S SPORT PLUS 3 HD ( Yayın zamanı aktif )
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/35961.ts
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 4 HD ( Yayın zamanı aktif )" tvg-logo="https://i.hizliresim.com/8px7pya.png" group-title="2)TR➾ SPOR",S SPORT PLUS 4 HD ( Yayın zamanı aktif )
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/35962.ts
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 5 HD ( Yayın zamanı aktif )" tvg-logo="https://i.hizliresim.com/8px7pya.png" group-title="2)TR➾ SPOR",S SPORT PLUS 5 HD ( Yayın zamanı aktif )
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/35963.ts
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 6 HD ( Yayın zamanı aktif )" tvg-logo="https://i.hizliresim.com/8px7pya.png" group-title="2)TR➾ SPOR",S SPORT PLUS 6 HD ( Yayın zamanı aktif )
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/35964.ts
+
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", EVENTOS TNT Sports  Brasil
