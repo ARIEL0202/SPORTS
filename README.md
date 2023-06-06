@@ -13,20 +13,8 @@ http://181.78.8.90:16123/play/ch21
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS FEED YAYIN mac saati aktif" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS FEED YAYIN mac saati aktif
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/12.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 FULL HD" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 FULL HD
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/5395.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 HD" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 HD
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/8.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 QHD" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 QHD
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/5396.ts
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 SD" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 SD
 http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/9.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 MOBIL" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 MOBIL
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/11.ts
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 480p" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 480p
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/26.ts
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 4K YUKSEK KALITE" tvg-logo="https://i.hizliresim.com/psl5ml0.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 4K YUKSEK KALITE
 http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/7.ts
 #EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN SPORTS 2 FHD" tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 2 FHD
