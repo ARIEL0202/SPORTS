@@ -81,52 +81,173 @@ http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/20323.ts
 http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/20324.ts
 #EXTINF:-1 tvg-id="" tvg-name="EDGE SPORT HD" tvg-logo="http://89.105.197.2/logo/edgesport.png" group-title="2)TR➾ SPOR",EDGE SPORT HD
 http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/21010.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN HD 1" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN HD 1
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/35702.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN 1 720p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN 1 720p
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/36269.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN 1 576p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN 1 576p
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/37842.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN HD 2" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN HD 2
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/36085.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN 2 720p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN 2 720p
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/36268.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN HD 3" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN HD 3
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/36086.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN 3 720p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN 3 720p
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/36267.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN HD 4" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN HD 4
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/37725.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN 4 720p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN 4 720p
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/37726.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN HD 5" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN HD 5
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/37727.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN 5 720p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN 5 720p
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/37728.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN HD 6" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN HD 6
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/37729.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN 6 720p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN 6 720p
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/37730.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN HD 7" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN HD 7
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/50566.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN 7 720p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN 7 720p
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/50567.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN HD 8" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN HD 8
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/50568.ts
-#EXTINF:-1 tvg-id="" tvg-name="EXXEN 8 720p" tvg-logo="https://seeklogo.com/images/E/exxen-logo-371811BAA7-seeklogo.com.png" group-title="2)TR➾ SPOR",EXXEN 8 720p
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/50569.ts
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 1 HD ( Yayın zamanı aktif )" tvg-logo="https://i.hizliresim.com/8px7pya.png" group-title="2)TR➾ SPOR",S SPORT PLUS 1 HD ( Yayın zamanı aktif )
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/35959.ts
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 2 HD ( Yayın zamanı aktif )" tvg-logo="https://i.hizliresim.com/8px7pya.png" group-title="2)TR➾ SPOR",S SPORT PLUS 2 HD ( Yayın zamanı aktif )
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/35960.ts
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 3 HD ( Yayın zamanı aktif )" tvg-logo="https://i.hizliresim.com/8px7pya.png" group-title="2)TR➾ SPOR",S SPORT PLUS 3 HD ( Yayın zamanı aktif )
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/35961.ts
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 4 HD ( Yayın zamanı aktif )" tvg-logo="https://i.hizliresim.com/8px7pya.png" group-title="2)TR➾ SPOR",S SPORT PLUS 4 HD ( Yayın zamanı aktif )
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/35962.ts
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 5 HD ( Yayın zamanı aktif )" tvg-logo="https://i.hizliresim.com/8px7pya.png" group-title="2)TR➾ SPOR",S SPORT PLUS 5 HD ( Yayın zamanı aktif )
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/35963.ts
-#EXTINF:-1 tvg-id="" tvg-name="S SPORT PLUS 6 HD ( Yayın zamanı aktif )" tvg-logo="https://i.hizliresim.com/8px7pya.png" group-title="2)TR➾ SPOR",S SPORT PLUS 6 HD ( Yayın zamanı aktif )
-http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/35964.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORT NEWS (UK)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SKY SPORT NEWS (UK)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72186.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORT PREMIER LEAGUE (UK)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SKY SPORT PREMIER LEAGUE (UK)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72187.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORTS FOOTBALL (UK)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SKY SPORTS FOOTBALL (UK)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72188.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORT ACTION (UK)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SKY SPORT ACTION (UK)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72189.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORTS ARENA (UK)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SKY SPORTS ARENA (UK)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72190.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORT MIX (UK)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SKY SPORT MIX (UK)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72191.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORTS MAIN EVENT (UK)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SKY SPORTS MAIN EVENT (UK)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72192.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORTS F1 (UK)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SKY SPORTS F1 (UK)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72193.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORT GOLF (UK)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SKY SPORT GOLF (UK)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72194.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORT CRICKET (UK)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SKY SPORT CRICKET (UK)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72195.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BT SPORT 1 (UK)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: BT SPORT 1 (UK)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72196.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BT SPORT 2 (UK)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: BT SPORT 2 (UK)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72197.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BT SPORT 3 (UK)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: BT SPORT 3 (UK)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72198.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SPORT TV 1 (PT)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SPORT TV 1 (PT)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72199.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SPORT TV 2 (PT)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SPORT TV 2 (PT)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72200.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SPORT TV 3 (PT)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SPORT TV 3 (PT)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72201.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SPORT TV 4 (PT)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SPORT TV 4 (PT)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72202.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SPORT TV 5 (PT)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SPORT TV 5 (PT)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72203.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: ELEVEN SPORT 1 (PT)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: ELEVEN SPORT 1 (PT)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72204.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: ELEVEN SPORT 2 (PT)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: ELEVEN SPORT 2 (PT)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72205.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS 1 HD+(TR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS 1 HD+(TR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72206.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS 2 HD+(TR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS 2 HD+(TR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72207.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORT NEWS (DE)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SKY SPORT NEWS (DE)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72208.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORT 1 (DE)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SKY SPORT 1 (DE)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72209.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SKY SPORT 2 (DE)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SKY SPORT 2 (DE)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72210.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: BUNDESLIGA 1 (DE)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: BUNDESLIGA 1 (DE)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72211.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: DAZN Sport 1 HD (DE)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: DAZN Sport 1 HD (DE)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72212.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: DAZN Sport 2 HD (DE)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: DAZN Sport 2 HD (DE)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72213.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: ESPN 1 HD (NL)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: ESPN 1 HD (NL)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72214.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: ESPN 2 HD (NL)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: ESPN 2 HD (NL)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72215.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: ZIGGO SPORT SELECT HD (NL)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: ZIGGO SPORT SELECT HD (NL)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72216.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: ELEVEN SPORT 1 (PL)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: ELEVEN SPORT 1 (PL)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72217.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: ELEVEN SPORT 2 (PL)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: ELEVEN SPORT 2 (PL)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72218.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: ELEVEN SPORT 3 (PL)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: ELEVEN SPORT 3 (PL)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72219.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Canal  Sport 1 HD (PL)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: Canal  Sport 1 HD (PL)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72220.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Canal  Sport 2 HD (PL)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: Canal  Sport 2 HD (PL)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72221.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS PREMIUM 1 AR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS PREMIUM 1 AR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72222.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS PREMIUM 2 (AR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS PREMIUM 2 (AR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72223.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS PREMIUM 3 (AR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS PREMIUM 3 (AR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72224.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS 1 (AR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS 1 (AR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72225.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS 2 (AR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS 2 (AR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72226.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS 3 (AR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS 3 (AR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72227.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS 4 (AR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS 4 (AR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72228.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS 5 (AR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS 5 (AR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72229.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS 6 (AR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS 6 (AR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72230.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS 7 (AR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS 7 (AR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72231.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS 1 EN (AR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS 1 EN (AR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72232.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS 2 EN (AR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS 2 EN (AR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72233.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS M*X 1 (AR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS M*X 1 (AR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72234.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS M*X 2 (AR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS M*X 2 (AR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72235.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS M*X 3 (AR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS M*X 3 (AR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72236.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS M*X 4 (AR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS M*X 4 (AR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72237.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTST M*X 5 (AR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTST M*X 5 (AR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72238.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: b**N SP0RTS MAX 6 (AR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: b**N SP0RTS MAX 6 (AR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72239.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: RMC SPORT 1 (FR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: RMC SPORT 1 (FR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72240.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: RMC SPORT 2 (FR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: RMC SPORT 2 (FR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72241.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: RMC SPORT 3 (FR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: RMC SPORT 3 (FR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72242.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: RMC SPORT 4 (FR)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: RMC SPORT 4 (FR)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72243.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: LALIGA TV BAR (ES)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: LALIGA TV BAR (ES)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72244.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Arena Sport 1 HD (EX-YU)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: Arena Sport 1 HD (EX-YU)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72245.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Arena Sport 2 HD (EX-YU)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: Arena Sport 2 HD (EX-YU)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72246.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Arena Sport 3 HD (EX-YU)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: Arena Sport 3 HD (EX-YU)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72247.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Arena Sport 4 HD (EX-YU)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: Arena Sport 4 HD (EX-YU)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72248.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Arena Sport 5 HD (EX-YU)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: Arena Sport 5 HD (EX-YU)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72249.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SPORT KLUB 1 (EX-YU)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SPORT KLUB 1 (EX-YU)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72250.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SPORT KLUB 2 (EX-YU)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SPORT KLUB 2 (EX-YU)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72251.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SPORT KLUB 3 (EX-YU)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SPORT KLUB 3 (EX-YU)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72252.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: SPORT KLUB 4 (EX-YU)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: SPORT KLUB 4 (EX-YU)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72253.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Super Sport 1 (AL)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: Super Sport 1 (AL)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72254.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Super Sport 2 (AL)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: Super Sport 2 (AL)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72255.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Super Sport 3 (AL)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: Super Sport 3 (AL)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72256.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Tring Sport 1 (AL)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: Tring Sport 1 (AL)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72257.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: Tring Sport 2 (AL)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: Tring Sport 2 (AL)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72258.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: DIGI SPORT 1 (RO)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: DIGI SPORT 1 (RO)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72259.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: DIGI SPORT 2 (RO)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: DIGI SPORT 2 (RO)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72260.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: DIGI SPORT 3 (RO)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: DIGI SPORT 3 (RO)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72261.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: DIGI SPORT 4 (RO)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: DIGI SPORT 4 (RO)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72262.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: UFC Network" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: UFC Network
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72263.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: NBA Network (US)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: NBA Network (US)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72264.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: NHL Network (US)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: NHL Network (US)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72265.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: MLB Network (US)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: MLB Network (US)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72266.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: NFL Network (US)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: NFL Network (US)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72267.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: WWE Network (US)" tvg-logo="" group-title="WS➾ WORLD SPORTS	",VIP SPORT: WWE Network (US)
+http://vipedz.com:8080/live/fatihyilmaz3/deNRNr4aM8Je/72268.ts
 
 
 --------------------------------------------------------------------------------------------------------------------------------------
