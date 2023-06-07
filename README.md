@@ -11,6 +11,20 @@ http://181.78.8.90:16123/play/ch20
 #EXTINF:-1,FOX SPORTS 3
 http://181.78.8.90:16123/play/ch21
 
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="CANAIS: HD",ESPN 2 HD+
+http://51.222.87.103:8880/287994016241/287994016241/16716
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="CANAIS: 4K ",ESPN 4K
+http://51.222.87.103:8880/287994016241/287994016241/31034
+#EXTINF:-1 tvg-id="Example" tvg-name="ESPN 4 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bfb9a69c9813f26eae33eb06029fa0ad.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN 4 HD
+http://51.222.87.103:8880/287994016241/287994016241/31148
+#EXTINF:-1 tvg-id="Example" tvg-name="ESPN 3" tvg-logo="http://xcui.vitvabc.xyz:8880/images/96e8f1dba8c6dfcf1379418173569f03.png" group-title="CANAIS: HD",ESPN 3
+http://51.222.87.103:8880/287994016241/287994016241/16725
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 1 HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/39ba71210c63301ed9b037b9d22e77d7.png" group-title="CANAIS: HD",SporTV 1 HD+
+http://51.222.87.103:8880/287994016241/287994016241/16753
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="CANAIS: HD",Combate HD+
+http://51.222.87.103:8880/287994016241/287994016241/16703
+
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 SD" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 SD
