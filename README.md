@@ -1,3 +1,201 @@
+
+#EXTINF:-1 tvg-id="" tvg-name="AFIZZIONADOS HD" tvg-logo="http://iptbest.xyz/logo/Afizzionado.png" group-title="DEPORTES",AFIZZIONADOS HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92683
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA DEPORTES NETWORK HD" tvg-logo="http://www.iptbest.xyz/logo/AztecaDeportesNetwork.png" group-title="DEPORTES",AZTECA DEPORTES NETWORK HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92694
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA Ñ HD" tvg-logo="http://www.iptbest.xyz/logo/beINSportsXtraN.png" group-title="DEPORTES",BEIN SPORTS XTRA Ñ HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/90048
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BEIN SPORTS Ñ HD" tvg-logo="http://www.iptbest.xyz/logo/beINSportsN.png" group-title="DEPORTES",BEIN SPORTS Ñ HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/23542
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS (Latinoamerica)" tvg-logo="http://iptbest.xyz/logo/Claro-Sports.png" group-title="DEPORTES",CLARO SPORTS (Latinoamerica)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92757
+#EXTINF:-1 tvg-id="ClaroSports.co" tvg-name="CLARO SPORTS (Latinoamerica) HD" tvg-logo="http://iptbest.xyz/logo/Claro-Sports.png" group-title="DEPORTES",CLARO SPORTS (Latinoamerica) HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/61600
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS 2 HD" tvg-logo="http://iptbest.xyz/logo/Claro_Sports_2.png" group-title="DEPORTES",CLARO SPORTS 2 HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92529
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD" tvg-logo="http://iptbest.xyz/logo/combate.png" group-title="DEPORTES",COMBATE HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92699
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS (Argentina)  " tvg-logo="http://www.iptbest.xyz/logo/DirecTV-Sports.png" group-title="DEPORTES",DIRECTV SPORTS (Argentina)  
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92895
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS (Chile)" tvg-logo="http://iptbest.xyz/logo/DirecTV-Sports-HD.png" group-title="DEPORTES",DIRECTV SPORTS (Chile)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/90078
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS (Ecuador)" tvg-logo="http://iptbest.xyz/logo/DirecTV-Sports-HD.png" group-title="DEPORTES",DIRECTV SPORTS (Ecuador)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/10005
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS + HD (Argentina)" tvg-logo="http://iptbest.xyz/logo/DirecTV-Sports-Plus-HD.png" group-title="DEPORTES",DIRECTV SPORTS + HD (Argentina)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22689
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS + HD (Colombia)" tvg-logo="http://iptbest.xyz/logo/DirecTV-Sports-Plus-HD.png" group-title="DEPORTES",DIRECTV SPORTS + HD (Colombia)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22103
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 HD  " tvg-logo="http://www.iptbest.xyz/logo/DirecTV-Sports-2-HD.png" group-title="DEPORTES",DIRECTV SPORTS 2 HD  
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/34959
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 HD (Argentina) " tvg-logo="http://iptbest.xyz/logo/DirecTV-Sports-2-HD.png" group-title="DEPORTES",DIRECTV SPORTS 2 HD (Argentina) 
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22688
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 HD (Colombia) " tvg-logo="http://www.iptbest.xyz/logo/DirecTV-Sports-2-HD.png" group-title="DEPORTES",DIRECTV SPORTS 2 HD (Colombia) 
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/11029
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS HD (Uruguay)" tvg-logo="http://iptbest.xyz/logo/DirecTV-Sports-HD.png" group-title="DEPORTES",DIRECTV SPORTS HD (Uruguay)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/17252
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS HD(Colombia)" tvg-logo="http://www.iptbest.xyz/logo/DirecTV-Sports.png" group-title="DEPORTES",DIRECTV SPORTS HD(Colombia)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92810
+#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FÚTBOL HD" tvg-logo="http://iptbest.xyz/logo/ECDF.png" group-title="DEPORTES",EL CANAL DEL FÚTBOL HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/868
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://www.iptbest.xyz/logo/ESPN.png" group-title="DEPORTES",ESPN
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22105
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN (Argentina)" tvg-logo="http://www.iptbest.xyz/logo/ESPN-Arg.png" group-title="DEPORTES",ESPN (Argentina)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22111
+#EXTINF:-1 tvg-id="" tvg-name="ESPN (Colombia)  " tvg-logo="http://www.iptbest.xyz/logo/ESPN-Arg.png" group-title="DEPORTES",ESPN (Colombia)  
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92722
+#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="ESPN 2" tvg-logo="http://www.iptbest.xyz/logo/ESPN2.png" group-title="DEPORTES",ESPN 2
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22107
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 (Argentina)" tvg-logo="http://www.iptbest.xyz/logo/ESPN2-Arg.png" group-title="DEPORTES",ESPN 2 (Argentina)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92460
+#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="ESPN 2 HD  " tvg-logo="http://www.iptbest.xyz/logo/ESPN2HD.png" group-title="DEPORTES",ESPN 2 HD  
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/32875
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN 2 HD (Argentina)" tvg-logo="http://www.iptbest.xyz/logo/ESPN2-Arg.png" group-title="DEPORTES",ESPN 2 HD (Argentina)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/34585
+#EXTINF:-1 tvg-id="Espn2.mx" tvg-name="ESPN 2 HD (Chile)" tvg-logo="http://www.iptbest.xyz/logo/ESPN2-Arg.png" group-title="DEPORTES",ESPN 2 HD (Chile)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22108
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (Norte)" tvg-logo="http://www.iptbest.xyz/logo/ESPN2.png" group-title="DEPORTES",ESPN 2 HD (Norte)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92425
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="http://www.iptbest.xyz/logo/ESPN3.png" group-title="DEPORTES",ESPN 3
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22109
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 (Argentina)" tvg-logo="http://www.iptbest.xyz/logo/ESPN3-Arg.png" group-title="DEPORTES",ESPN 3 (Argentina)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22113
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD " tvg-logo="" group-title="DEPORTES",ESPN 3 HD 
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/32876
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 HD (Argentina)" tvg-logo="http://www.iptbest.xyz/logo/ESPN3HD-Arg.png" group-title="DEPORTES",ESPN 3 HD (Argentina)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/1601
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4  (Norte)" tvg-logo="http://www.iptbest.xyz/logo/ESPN4.png" group-title="DEPORTES",ESPN 4  (Norte)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92825
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 (Argentina)  " tvg-logo="http://www.iptbest.xyz/logo/ESPN4-Arg.png" group-title="DEPORTES",ESPN 4 (Argentina)  
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92721
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="http://www.iptbest.xyz/logo/ESPN4.png" group-title="DEPORTES",ESPN 4 HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92488
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="ESPN 4 HD (Argentina) " tvg-logo="http://www.iptbest.xyz/logo/ESPN4-Arg.png" group-title="DEPORTES",ESPN 4 HD (Argentina) 
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/34587
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN DEPORTES HD" tvg-logo="http://www.iptbest.xyz/logo/ESPN-Deportes.png" group-title="DEPORTES",ESPN DEPORTES HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22591
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://www.iptbest.xyz/logo/ESPN-EXTRA.png" group-title="DEPORTES",ESPN EXTRA
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22116
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD" tvg-logo="http://www.iptbest.xyz/logo/ESPN-EXTRA.png" group-title="DEPORTES",ESPN EXTRA HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22115
+#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA HD (Argentina)" tvg-logo="http://www.iptbest.xyz/logo/ESPN-EXTRA.png" group-title="DEPORTES",ESPN EXTRA HD (Argentina)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92489
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://www.iptbest.xyz/logo/ESPN.png" group-title="DEPORTES",ESPN HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/1107
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN HD (Argentina) " tvg-logo="http://www.iptbest.xyz/logo/ESPN-HD-Arg.png" group-title="DEPORTES",ESPN HD (Argentina) 
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/6701
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD (Chile)" tvg-logo="http://www.iptbest.xyz/logo/ESPN-HD-Arg.png" group-title="DEPORTES",ESPN HD (Chile)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/34960
+#EXTINF:-1 tvg-id="FoxSportsPremiumLatAm.co" tvg-name="ESPN PREMIUM HD" tvg-logo="http://www.iptbest.xyz/logo/ESPN_Premium.png" group-title="DEPORTES",ESPN PREMIUM HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/23324
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U HD " tvg-logo="http://www.iptbest.xyz/logo/ESPN-U-HD.png" group-title="DEPORTES",ESPN U HD 
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/23159
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORTS HD" tvg-logo="http://www.iptbest.xyz/logo/Estadio-TNT-Sports.png" group-title="DEPORTES",ESTADIO TNT SPORTS HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/37174
+#EXTINF:-1 tvg-id="" tvg-name="FOX DEPORTES HD" tvg-logo="http://iptbest.xyz/logo/FOXDeportes.png" group-title="DEPORTES",FOX DEPORTES HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22119
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="FOX SOCCER PLUS HD" tvg-logo="http://iptbest.xyz/logo/FOXSoccerPlus.png" group-title="DEPORTES",FOX SOCCER PLUS HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22982
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="FOX SPORTS" tvg-logo="http://iptbest.xyz/logo/FOXSportsMex.png" group-title="DEPORTES",FOX SPORTS
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22120
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="FOX SPORTS 2" tvg-logo="http://iptbest.xyz/logo/FOXSports2Mex.png" group-title="DEPORTES",FOX SPORTS 2
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22122
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 (Argentina) " tvg-logo="http://iptbest.xyz/logo/FOXSports2Arg.png" group-title="DEPORTES",FOX SPORTS 2 (Argentina) 
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92724
+#EXTINF:-1 tvg-id="FoxSports2.mx" tvg-name="FOX SPORTS 2 HD  " tvg-logo="http://iptbest.xyz/logo/FOXSports2HDMex.png" group-title="DEPORTES",FOX SPORTS 2 HD  
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/61621
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="FOX SPORTS 2 HD (Argentina)" tvg-logo="http://iptbest.xyz/logo/FOXSports2HDArg.png" group-title="DEPORTES",FOX SPORTS 2 HD (Argentina)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/34588
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="FOX SPORTS 3" tvg-logo="http://iptbest.xyz/logo/FOXSports3Mex.png" group-title="DEPORTES",FOX SPORTS 3
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22124
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3 (Argentina)" tvg-logo="http://iptbest.xyz/logo/FOXSports3Arg.png" group-title="DEPORTES",FOX SPORTS 3 (Argentina)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92723
+#EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="FOX SPORTS 3 HD" tvg-logo="http://iptbest.xyz/logo/FOXSports3HDMex.png" group-title="DEPORTES",FOX SPORTS 3 HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/6691
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="FOX SPORTS 3 HD (Argentina) " tvg-logo="http://iptbest.xyz/logo/FOXSports3HDArg.png" group-title="DEPORTES",FOX SPORTS 3 HD (Argentina) 
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/34589
+#EXTINF:-1 tvg-id="FoxSports.mx" tvg-name="FOX SPORTS HD" tvg-logo="http://iptbest.xyz/logo/FOXSportsHDMex.png" group-title="DEPORTES",FOX SPORTS HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/6760
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="FOX SPORTS HD (Argentina)" tvg-logo="http://iptbest.xyz/logo/FOXSports1HDArg.png" group-title="DEPORTES",FOX SPORTS HD (Argentina)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/556
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD (Chile)" tvg-logo="http://iptbest.xyz/logo/FOXSports1HDArg.png" group-title="DEPORTES",FOX SPORTS HD (Chile)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/90177
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM HD" tvg-logo="http://iptbest.xyz/logo/FOXSportsPremiumHD.png" group-title="DEPORTES",FOX SPORTS PREMIUM HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92515
+#EXTINF:-1 tvg-id="" tvg-name="GARAGE TV " tvg-logo="http://iptbest.xyz/logo/GarageTV.png" group-title="DEPORTES",GARAGE TV 
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/34497
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="GARAGE TV HD" tvg-logo="http://iptbest.xyz/logo/GarageTV.png" group-title="DEPORTES",GARAGE TV HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/31340
+#EXTINF:-1 tvg-id="" tvg-name="GOLF LATIN AMERICA" tvg-logo="http://iptbest.xyz/logo/Golf-Latin-America.png" group-title="DEPORTES",GOLF LATIN AMERICA
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92606
+#EXTINF:-1 tvg-id="GolfChannel.mx" tvg-name="GOLF LATIN AMERICA HD" tvg-logo="http://iptbest.xyz/logo/Golf-Latin-America.png" group-title="DEPORTES",GOLF LATIN AMERICA HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/6689
+#EXTINF:-1 tvg-id="" tvg-name="GOLTV" tvg-logo="http://iptbest.xyz/logo/GolTVLatamHD.png" group-title="DEPORTES",GOLTV
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/93076
+#EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="GOLTV (Ecuador) " tvg-logo="http://iptbest.xyz/logo/GolTV-Ecu.png" group-title="DEPORTES",GOLTV (Ecuador) 
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/5635
+#EXTINF:-1 tvg-id="" tvg-name="GOLTV 2 HD (Ecuador)" tvg-logo="http://iptbest.xyz/logo/GolTV-Ecu-HD.png" group-title="DEPORTES",GOLTV 2 HD (Ecuador)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/90082
+#EXTINF:-1 tvg-id="GolTVLatinAmerica.pa" tvg-name="GOLTV HD (Ecuador)" tvg-logo="http://iptbest.xyz/logo/GolTV-Ecu-HD.png" group-title="DEPORTES",GOLTV HD (Ecuador)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/7811
+#EXTINF:-1 tvg-id="" tvg-name="GOLTV HD (Internacional)" tvg-logo="http://iptbest.xyz/logo/GolTVLatamHD.png" group-title="DEPORTES",GOLTV HD (Internacional)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/23011
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV BAR HD" tvg-logo="http://www.iptbest.xyz/logo/LaLigaTVBarHD.png" group-title="DEPORTES",LA LIGA TV BAR HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/90057
+#EXTINF:-1 tvg-id="" tvg-name="LATIN AMERICAN SPORT" tvg-logo="http://iptbest.xyz/logo/LatinAmericanSports.png" group-title="DEPORTES",LATIN AMERICAN SPORT
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92826
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV HD " tvg-logo="http://iptbest.xyz/logo/RedBullTV.png" group-title="DEPORTES",RED BULL TV HD 
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/10784
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS PREMIER LEAGUE HD " tvg-logo="http://iptbest.xyz/logo/skysportsarena.png" group-title="DEPORTES",SKY SPORTS PREMIER LEAGUE HD 
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/90184
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1 HD " tvg-logo="http://iptbest.xyz/logo/SkySportF1.png" group-title="DEPORTES",SKY SPORTS F1 HD 
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92902
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS NEWS HD " tvg-logo="http://iptbest.xyz/logo/Sky-Sport-News.png" group-title="DEPORTES",SKY SPORTS NEWS HD 
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/90183
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS PREMIER LEAGUE HD " tvg-logo="http://iptbest.xyz/logo/skysportpremierleague.png" group-title="DEPORTES",SKY SPORTS PREMIER LEAGUE HD 
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/90181
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS (honduras)" tvg-logo="http://www.iptbest.xyz/logo/TigoSportsPY.png" group-title="DEPORTES",TIGO SPORTS (honduras)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/90179
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="TNT SPORTS 2 (Chile)" tvg-logo="http://iptbest.xyz/logo/TNT-Sports-2-Chile.png" group-title="DEPORTES",TNT SPORTS 2 (Chile)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/28993
+#EXTINF:-1 tvg-id="CDFBasico.cl" tvg-name="TNT SPORTS 3 (Chile) " tvg-logo="http://iptbest.xyz/logo/TNT-Sports-3-Chile.png" group-title="DEPORTES",TNT SPORTS 3 (Chile) 
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22405
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 HD (Chile) " tvg-logo="http://iptbest.xyz/logo/TNT-Sports-3-Chile.png" group-title="DEPORTES",TNT SPORTS 3 HD (Chile) 
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/90176
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT SPORTS HD (ARG)" tvg-logo="http://iptbest.xyz/logo/TNT-Sports-Argentina.png" group-title="DEPORTES",TNT SPORTS HD (ARG)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/22145
+#EXTINF:-1 tvg-id="CDFBasico.cl" tvg-name="TNT SPORTS HD (Chile)" tvg-logo="http://iptbest.xyz/logo/TNT-Sports-Chile.png" group-title="DEPORTES",TNT SPORTS HD (Chile)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/37170
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (mexico)" tvg-logo="http://iptbest.xyz/logo/TUDN-Mex.png" group-title="DEPORTES",TUDN (mexico)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/37168
+#EXTINF:-1 tvg-id="" tvg-name="TUDN HD (mexico)" tvg-logo="http://iptbest.xyz/logo/TUDN-Mex.png" group-title="DEPORTES",TUDN HD (mexico)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/67460
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN USA HD" tvg-logo="http://www.iptbest.xyz/logo/TUDN-USA.png" group-title="DEPORTES",TUDN USA HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/23113
+#EXTINF:-1 tvg-id="" tvg-name="TyC SPORTS" tvg-logo="http://iptbest.xyz/logo/TyC-Sports.png" group-title="DEPORTES",TyC SPORTS
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/93077
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="TyC SPORTS HD (Internacinal)" tvg-logo="http://iptbest.xyz/logo/TyC-Sports-Int.png" group-title="DEPORTES",TyC SPORTS HD (Internacinal)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/31315
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="TyC SPORTS HD LOCAL (Argentina)" tvg-logo="http://iptbest.xyz/logo/TyC-Sports.png" group-title="DEPORTES",TyC SPORTS HD LOCAL (Argentina)
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/61605
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS" tvg-logo="http://www.iptbest.xyz/logo/Win-Sports.png" group-title="DEPORTES",WIN SPORTS
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/23219
+#EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS HD" tvg-logo="http://www.iptbest.xyz/logo/Win-Sports-HD.png" group-title="DEPORTES",WIN SPORTS HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/857
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="WIN SPORTS MAS   " tvg-logo="http://www.iptbest.xyz/logo/Win-Sports-Mas-HD.png" group-title="DEPORTES",WIN SPORTS MAS   
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/34695
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="WIN SPORTS MAS HD" tvg-logo="http://www.iptbest.xyz/logo/Win-Sports-Mas.png" group-title="DEPORTES",WIN SPORTS MAS HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/492
+#EXTINF:-1 tvg-id="CDFBasico.cl" tvg-name="TNT SPORTS (Chile)  " tvg-logo="http://iptbest.xyz/logo/TNT-Sports-Chile.png" group-title="DEPORTES",TNT SPORTS (Chile)  
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/28994
+#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FÚTBOL " tvg-logo="http://iptbest.xyz/logo/ECDF.png" group-title="DEPORTES",EL CANAL DEL FÚTBOL 
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/93328
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="http://iptbest.xyz/logo/skysportscricket.png" group-title="DEPORTES",SKY SPORTS CRICKET HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/92896
+#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA - LA LIGA TV BAR HD" tvg-logo="http://www.iptbest.xyz/logo/LaLigaTVBarHD.png" group-title="España▐ Deportes",ESPAÑA - LA LIGA TV BAR HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/90075
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MAINT EVENT HD" tvg-logo="http://iptbest.xyz/logo/skysportfotball.png" group-title="DEPORTES",SKY SPORTS MAINT EVENT HD
+http://tv.soccerplus.link:8000/Estsarm581/Tuiptv158jjk/90182
+
 #EXTINF:-1,ESPN
 http://181.78.8.90:16123/play/ch16
 #EXTINF:-1,ESPN2
