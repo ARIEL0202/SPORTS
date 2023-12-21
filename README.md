@@ -210,7 +210,8 @@ http://181.78.8.90:16123/play/ch20
 http://181.78.8.90:16123/play/ch21
 #EXTINF:-1,SPORTS
 http://217.174.225.146/hls/ch004_720/index.m3u8
-
+#EXTINF:-1,ESPN EXTRA HD
+http://181.78.8.90:16123/play/a064
 --------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="DEPORTE", EVENTOS TNT Sports  Brasil
