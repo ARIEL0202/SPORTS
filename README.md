@@ -1,3 +1,7 @@
+#EXTINF:-1 tvg-id="ESPN2Chile.cl" tvg-name="ESPN 1 | CL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-cl-hd.png" group-title="⚽ ESPN / FOX SPORTS",ESPN 1 | CL ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/58201
+#EXTINF:-1 tvg-id="ESPN2Chile.cl" tvg-name="ESPN 2 | CL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-cl-hd.png" group-title="⚽ ESPN / FOX SPORTS",ESPN 2 | CL ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/58202
 #EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="WIN SPORTS+" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/win-sports-plus.png" group-title="⚽ DEPORTES",WIN SPORTS+
 http://nxt.plus:8080/olmos/1234guz/46973
 #EXTINF:-1 tvg-id="GOLPERU.HD.(GOLPERU.HD).pe" tvg-name="GOLPERU" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/gol-peru.png" group-title="PERÚ",GOLPERU
@@ -12,6 +16,10 @@ http://nxt.plus:8080/olmos/1234guz/16915
 http://nxt.plus:8080/olmos/1234guz/24405
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN 1 | CO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-co.png" group-title="⚽ ESPN / FOX SPORTS",ESPN 1 | CO
 http://nxt.plus:8080/olmos/1234guz/43528
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="TNT SPORTS 3 (CL)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-3-cl.png" group-title="⚽ TNT SPORTS",TNT SPORTS 3 (CL)
+http://nxt.plus:8080/olmos/1234guz/8
+#EXTINF:-1 tvg-id="TNT Sport 2" tvg-name="TNT SPORTS 2 (CL)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-2-cl.png" group-title="⚽ TNT SPORTS",TNT SPORTS 2 (CL)
+http://nxt.plus:8080/olmos/1234guz/7
 
 
 #EXTINF:-1,ESPN
