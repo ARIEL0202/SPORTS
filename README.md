@@ -20,6 +20,10 @@ http://nxt.plus:8080/olmos/1234guz/43528
 http://nxt.plus:8080/olmos/1234guz/8
 #EXTINF:-1 tvg-id="TNT Sport 2" tvg-name="TNT SPORTS 2 (CL)" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-2-cl.png" group-title="⚽ TNT SPORTS",TNT SPORTS 2 (CL)
 http://nxt.plus:8080/olmos/1234guz/7
+#EXTINF:-1 tvg-id="CDOBasico.cl" tvg-name="CDO BASICO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/cdo-basico.png" group-title="⚽ DEPORTES",CDO BASICO
+http://nxt.plus:8080/olmos/1234guz/59071
+#EXTINF:-1 tvg-id="ESPN.2.(Colombia).(ESPN.2)..ec" tvg-name="ESPN 2 | EC" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-ec.png" group-title="⚽ ESPN / FOX SPORTS",ESPN 2 | EC
+http://nxt.plus:8080/olmos/1234guz/59099
 
 
 #EXTINF:-1,ESPN
