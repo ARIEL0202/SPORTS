@@ -1,3 +1,19 @@
+#EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="WIN SPORTS+" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/win-sports-plus.png" group-title="⚽ DEPORTES",WIN SPORTS+
+http://nxt.plus:8080/olmos/1234guz/46973
+#EXTINF:-1 tvg-id="GOLPERU.HD.(GOLPERU.HD).pe" tvg-name="GOLPERU" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/gol-peru.png" group-title="PERÚ",GOLPERU
+http://nxt.plus:8080/olmos/1234guz/9758
+#EXTINF:-1 tvg-id="GolTV" tvg-name="GOL TV | EC" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/gol-tv.png" group-title="⚽ DEPORTES",GOL TV | EC
+http://nxt.plus:8080/olmos/1234guz/53691
+#EXTINF:-1 tvg-id="FOXSports2.uy" tvg-name="FOX SPORTS 2 | SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-2-sur-hd.png" group-title="⚽ ESPN / FOX SPORTS",FOX SPORTS 2 | SUR ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/13229
+#EXTINF:-1 tvg-id="ESPNExtra.uy" tvg-name="ESPN EXTRA | SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-extra-sur-hd.png" group-title="⚽ ESPN / FOX SPORTS",ESPN EXTRA | SUR ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/16915
+#EXTINF:-1 tvg-id="FOXSports3.uy" tvg-name="FOX SPORTS 3 | SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-3-sur-hd.png" group-title="⚽ ESPN / FOX SPORTS",FOX SPORTS 3 | SUR ᴴᴰ
+http://nxt.plus:8080/olmos/1234guz/24405
+#EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN 1 | CO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-co.png" group-title="⚽ ESPN / FOX SPORTS",ESPN 1 | CO
+http://nxt.plus:8080/olmos/1234guz/43528
+
+
 #EXTINF:-1,ESPN
 http://181.78.8.90:16123/play/ch16
 #EXTINF:-1,ESPN2
