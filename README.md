@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="ESPN2Chile.cl" tvg-name="ESPN 1 | CL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-cl-hd.png" group-title="⚽ ESPN / FOX SPORTS",ESPN 1 | CL ᴴᴰ
-http://nxt.plus:8080/olmos/1234guz/58201
+http://nxt.plus:8080/olmos/1234guz/58201        
 #EXTINF:-1 tvg-id="ESPN2Chile.cl" tvg-name="ESPN 2 | CL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-cl-hd.png" group-title="⚽ ESPN / FOX SPORTS",ESPN 2 | CL ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/58202
 #EXTINF:-1 tvg-id="Win.Sports+.co" tvg-name="WIN SPORTS+" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/win-sports-plus.png" group-title="⚽ DEPORTES",WIN SPORTS+
