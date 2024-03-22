@@ -1,3 +1,21 @@
+#EXTINF:-1 tvg-id="" tvg-name="││ARG││ TYC SPORTS [HD1]" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││ TYC SPORTS [HD1]
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/267
+#EXTINF:-1 tvg-id="" tvg-name="││SPORTS HD││MOVISTAR PLUS (N)" tvg-logo="https://static.epg.best/pe/MovistarDeportes.pe.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",││SPORTS HD││MOVISTAR PLUS (N)
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/451
+#EXTINF:-1 tvg-id="" tvg-name="││CHL││ CDO PREMIUN [SD]" tvg-logo="https://appnew.megainfoapp.com/files/1/CDO.png" group-title="││TV││⛹️ DEPORTE CHILE ⛹️",││CHL││ CDO PREMIUN [SD]
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/230
+#EXTINF:-1 tvg-id="" tvg-name=" ││TIGO SPORT +││  (PAR)  [HD]" tvg-logo="https://static.epg.best/py/TigoSports.py.png" group-title="││TV││ ⛹️ TIGO SPORTS ⛹️", ││TIGO SPORT +││  (PAR)  [HD]
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/298
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS" tvg-logo="https://qph.cf2.quoracdn.net/main-qimg-c9798453ec86f37e3ae94460cc96c86d" group-title="││TV││ WIN SPORTS
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/148282
+#EXTINF:-1 tvg-id="" tvg-name="TUDN_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="",TUDN_HD
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/181566
+#EXTINF:-1 tvg-id="" tvg-name="FUTV_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/2560px-Logo_de_FUTV.svg.png" group-title="℗EVENTOS DEL DIA℗",FUTV_HD
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/181573
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="││TV││ ⛹️DAZN LA LIGA⛹️",DAZN LA LIGA HD*
+http://restreamus.com:8080/play2022/XASFqNvz3ThB/191052
+
+
 #EXTINF:-1 tvg-id="ESPN2Chile.cl" tvg-name="ESPN 1 | CL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-cl-hd.png" group-title="⚽ ESPN / FOX SPORTS",ESPN 1 | CL ᴴᴰ
 http://nxt.plus:8080/olmos/1234guz/58201        
 #EXTINF:-1 tvg-id="ESPN2Chile.cl" tvg-name="ESPN 2 | CL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-cl-hd.png" group-title="⚽ ESPN / FOX SPORTS",ESPN 2 | CL ᴴᴰ
