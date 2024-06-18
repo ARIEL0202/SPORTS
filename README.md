@@ -1,3 +1,66 @@
+#EXTINF:-1,ARG: TyC Sports HD
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858672
+#EXTINF:-1,ARG: TyC Sports Internacional HD
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858673
+#EXTINF:-1,ARG: ESPN HD
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858636
+#EXTINF:-1,ARG: ESPN 2 HD
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858637
+#EXTINF:-1,ARG: ESPN 3 HD
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858638
+#EXTINF:-1,ARG: ESPN Extra HD
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858639
+#EXTINF:-1,ARG: ESPN Premium HD
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858641
+#EXTINF:-1,ARG: ESPN Premium SD
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858642
+#EXTINF:-1,ARG: Fox Sports HD
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858643
+#EXTINF:-1,ARG: Fox Sports 2 HD
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858644
+#EXTINF:-1,ARG: Fox Sports 3 HD
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858645
+#EXTINF:-1,ARG: Fox Sports Premium HD
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858646
+#EXTINF:-1,ARG: TNT Sports HD
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858661
+
+#EXTINF:-1,ARG: TyC SPORT PLAY 1
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858667
+#EXTINF:-1,ARG: TyC SPORT PLAY 2
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858668
+#EXTINF:-1,ARG: TyC SPORT PLAY 3
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858669
+#EXTINF:-1,ARG: TyC SPORT PLAY 4
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858670
+#EXTINF:-1,ARG: TyC SPORT PLAY 6
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858671
+#EXTINF:-1,ARG: TyC SPORTS PLAY
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858674
+#EXTINF:-1,ARG: TyC Sports SD
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858675
+
+#EXTINF:-1,LA: ESPN DEPORTES - LA
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/864178
+#EXTINF:-1,LA: ESPN 2
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/864179
+#EXTINF:-1,LA: ESPN 3 VIVO
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/864180
+#EXTINF:-1,LA: ESPN EXTRA
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/864181
+#EXTINF:-1,MX: ESPN
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/864182
+#EXTINF:-1,MX: ESPN 2
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/864183
+#EXTINF:-1,MX: ESPN 3
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/864184
+#EXTINF:-1,MX: ESPN U
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/864185
+#EXTINF:-1,ARG: TNT Sports FHD
+http://toh-pan.xyz:8080/maxwell_42@hotmail.com/PmtR692N8N/858660
+
+-------------------------------------------------------------------------------------------------------------------
+
 #EXTINF:-1 tvg-id="" tvg-name="││ARG││ TYC SPORTS [HD1]" tvg-logo="https://static.epg.best/ar/TYCSports.ar.png" group-title="││TV││⛹️ DEPORTE ARGENTINA ⛹️",││ARG││ TYC SPORTS [HD1]
 http://restreamus.com:8080/play2022/XASFqNvz3ThB/267
 #EXTINF:-1 tvg-id="" tvg-name="││SPORTS HD││MOVISTAR PLUS (N)" tvg-logo="https://static.epg.best/pe/MovistarDeportes.pe.png" group-title="││TV││⛹️ DEPORTE PERU ⛹️",││SPORTS HD││MOVISTAR PLUS (N)
